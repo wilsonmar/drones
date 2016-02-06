@@ -84,6 +84,44 @@ Voice commands
 
 # Decisions:
 
+Since time is of the essence, a strategy is needed which minimizes:
+
+  A. the risk of running into obstacles and
+
+  B. the likelihood of finding survivors with the minimum effort.
+
+STRATEGY 1: Flying vertically up and down would avoid obstacles better that across the field.
+
+STRATEGY 2: The drone has a high resolution camera, so we want to leverage that.
+Upon takeoff, the drone first flies high over the middle of the field to be at a high vantage point for 
+taking a hi-res overview picture used to identify objects and prioritize waypoints.
+"Conventional" approaches (such as the CNN Google uses) are based on the 2-dimentional pictures.
+
+STRATEGY 3: The server issues a list of possible targets, 
+sorted by highest likelihood, which the drone flies to in order. 
+
+Pictures from the drone would go through the mobile phone which receives and forwards media from the drone to the server.
+
+STRATEGY 4: Images taken are saved on a server's database for comparison across time,
+and to use for the basis of additional learning.
+
+STRATEGY 5: There is a chance that the server is slow in coming back with a list.
+In case that happens, the drone then circles the perimeter of its mission field 
+to take pictures at different angles which provide a better chance of detecting objects,
+hoping that the better granularity closer to objects may improve image recognition.
+
+STRATEGY 6: The pictures are used by the server to construct a 3D model of the terrain and obstacles.
+
+STRAGEGY 7: On its way, the drone takes pictures of what’s enroute, building a full catalog of the field.
+Each image is geo coded.
+
+STRATEGY 8: Before each flight, the drone's altimeter and other sensors are calibrated to ensure accuracy
+needed to better compare data across different days and drone units.
+
+Beyond the scope of this current set is operation of multiple drones at the same time.
+
+
+
 ### iPhone or Android?
 
 iPhone needs to be plugged into the car with a USB cable; Android can do Bluetooth. Code in support for Chromecast, but AirPlay is free - that’s handled by the iPhone OS.
