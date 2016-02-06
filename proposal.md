@@ -1,20 +1,20 @@
 
 The strategy of this team is to minimize both:
 
-   A). the risk of running into obstacles and
+   I. the risk of running into obstacles and
 
-   B). the likelihood of identifying and reaching survivors with the minimum effort.
+   II. the likelihood of identifying and reaching survivors with the minimum effort.
 
 <hr />
 
 Here are the specific stragies which drive the innovative design:
 
-STRATEGY 1: The drone's flight path is based on a <strong>prioritized list</strong> of possible targets 
+STRATEGY A: The drone's flight path is based on a <strong>prioritized list</strong> of possible targets 
 and <strong>flight paths</strong>, 
 which the drone flies to in order. 
 The destination of highest likelihood (based on results of object recognition) is at the top of the list.
 
-STRATEGY 2: The drone operates <strong>autonomously</strong>, 
+STRATEGY B: The drone operates <strong>autonomously</strong>, 
 but can be aided by additional input from powerful machine-learning servers
 that informs the drone about areas of heightened or reduced interest.
 For example, the server can cross-correlate information about specific objects based on searches of databases on the internet.
@@ -22,20 +22,18 @@ For example, the server can cross-correlate information about specific objects b
 (Operation of multiple drones at the same time is beyond the scope of this current challenge,
 but it is one aspect why drones need to prioritize some areas over others.)
 
-STRATEGY 3: Pictures from the drone would <strong>go through the mobile phone</strong>
+STRATEGY C: Pictures from the drone would <strong>go through the mobile phone</strong>
 which receives and forwards media from the drone to the server, then notifies the drone with information from the server.
 
 The location of obstacles identified by the drone but not recognized are transmitted back to the server to refine object recognition algorithms.
 
-STRATEGY 4: Images taken are saved on a server's database for comparison across time,
+STRATEGY D: Images taken are saved on a server's database for comparison across time,
 and to use for the basis of additional learning.
 
-STRATEGY 5: Pictures are used by the server to construct a <strong>3D model</strong> of the terrain and obstacles.
-
-STRAGEGY 6: On its way, the drone takes pictures of what’s enroute, building a full catalog of the field.
+STRAGEGY E: On its way to a waypoint/destination, the drone takes pictures of what’s enroute, building a full catalog of the field.
 Each image is time and geo-coded with elevation data.
 
-STRATEGY 7: The higher the resolution of the camera on the drone, the higher the drone can fly.
+STRATEGY F: The higher the resolution of the camera on the drone, the higher the drone can fly.
 Upon takeoff, the drone <strong>first flies high</strong> over the middle of the field to be at a high vantage point for 
 taking a hi-res overview picture used to identify objects and prioritize waypoints.
 "Conventional" approaches (such as the CNN Google uses) are based on the 2-dimentional pictures.
@@ -43,13 +41,15 @@ taking a hi-res overview picture used to identify objects and prioritize waypoin
 This is recognizing there's an FAA enforced 400 foot ceiling as well as No Fly Zones (NFZs)
 http://www.dji.com/fly-safe/category-mc?www=v1
 
-STRATEGY 8: <strong>Flying vertically</strong> up and down would avoid obstacles better that flying horizontally.
+STRATEGY G: <strong>Flying vertically</strong> up and down would avoid obstacles better that flying horizontally.
 
-STRATEGY 9: There is a chance that the server is slow in coming back with its recommendations.
+STRATEGY H: There is a chance that the server is slow in coming back with its recommendations.
 In case that happens, the drone circles near the perimeter of its mission field 
 to take <strong>pictures at different angles</strong> to obtain a better chance of detecting objects,
 hoping that the better granularity closer to objects may improve image recognition.
 
-STRATEGY 10: Before each flight, the drone's altimeter and other sensors are calibrated to ensure accuracy
+STRATEGY I: Pictures are used by the server to construct a <strong>3D model</strong> of the terrain and obstacles.
+
+STRATEGY J: Before each flight, the drone's altimeter and other sensors are calibrated to ensure accuracy
 needed to better compare data across different days and drone units.
 
