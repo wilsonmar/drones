@@ -1,4 +1,22 @@
 
+
+## DJI GO Android app
+0. Install the app on one of your Android smart phones: 
+   https://play.google.com/store/apps/details?id=dji.pilot&hl=en
+
+   It works with the ZENMUSE X5R gimbal on the Inspire 1, Phantom 3 and Matrice 100 flying platforms 
+   
+   It also collects media from the Osmo handheld gimbal and camera.
+
+   * control the camera
+   * collects media 
+   * edit videos
+   * share media to the SkyPixel aerial photography community.
+   * Detailed flight records.
+   
+   
+## DJI template app:
+
 0. Create an App and get the API key.
 0. Install Android Studio 1.5 from http://developer.android.com/sdk/index.html.
 0. Create a project folder.
@@ -17,4 +35,4 @@ Write code to show video from the drone's camera:
    created by oliverou.
 0. DJISDKManager
 
-DJI's GO app:
+
