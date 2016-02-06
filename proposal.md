@@ -40,7 +40,8 @@ Upon takeoff, the drone <strong>first flies high</strong> over the middle of the
 taking a hi-res overview picture used to identify objects and prioritize waypoints.
 "Conventional" approaches (such as the CNN Google uses) are based on the 2-dimentional pictures.
 
-This is recognizing there's an FAA enforced 400 foot ceiling.
+This is recognizing there's an FAA enforced 400 foot ceiling as well as No Fly Zones (NFZs)
+http://www.dji.com/fly-safe/category-mc?www=v1
 
 STRATEGY 8: <strong>Flying vertically</strong> up and down would avoid obstacles better that flying horizontally.
 
