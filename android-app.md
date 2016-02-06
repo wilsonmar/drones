@@ -49,14 +49,12 @@ The end result is this:
 
 ## UI Guidelines:
 0. Use large transparent buttons like other DJI apps (DJI-Mobile-SDK/Android-FPVDemo):
-
 0. Position touchable buttons matching locations as in the Ford SYNC dashboard view.
 0. Use generic button shapes for international audences. ???
-0. Toggle buttons with color (red for recording, clear for ready to record).
+0. Toggle buttons with color (red for recording, clear for ready to record) which would declutter buttons.
 
-   * Clear Capture button turns to red and "Stop recording" when pressed.
-     This would eliminate a button.
-   * Play/Pause.
+   * Clear <strong>Capture</strong> button turns to red for "Stop capturing" when pressed.
+   * Clear <strong>Record</strong> button turns to red and "Stop recording" when pressed.
 
 0. Other screens (tabs):
 
