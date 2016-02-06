@@ -9,11 +9,12 @@ The strategy of this team is to minimize both:
 
 Here are the specific stragies which drive the innovative design:
 
-STRATEGY 1: Flying vertically up and down would avoid obstacles better that flying horizontally.
-
-STRATEGY 2: The drone's flight path is based on a prioritized list of possible targets and <strong>flight paths</strong>, 
+STRATEGY 1: The drone's flight path is based on a <strong>prioritized list</strong> of possible targets 
+and <strong>flight paths</strong>, 
 which the drone flies to in order. 
 The destination of highest likelihood (based on results of object recognition) is at the top of the list.
+
+STRATEGY 2: <strong>Flying vertically</strong> up and down would avoid obstacles better that flying horizontally.
 
 STRATEGY 3: The drone operates <strong>autonomously</strong>, 
 but can be aided by additional input from powerful machine-learning servers
