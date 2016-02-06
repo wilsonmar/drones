@@ -5,6 +5,8 @@ The strategy of this team is to minimize both:
 
    B). the likelihood of identifying and reaching survivors with the minimum effort.
 
+<hr />
+
 Here are the specific stragies which drive the innovative design:
 
 STRATEGY 1: Flying vertically up and down would avoid obstacles better that across the field.
@@ -40,7 +42,7 @@ In case that happens, the drone then circles the perimeter of its mission field
 to take pictures at different angles which provide a better chance of detecting objects,
 hoping that the better granularity closer to objects may improve image recognition.
 
-STRATEGY 8: The pictures are used by the server to construct a <strong>3D model<strong> of the terrain and obstacles.
+STRATEGY 8: The pictures are used by the server to construct a <strong>3D model</strong> of the terrain and obstacles.
 
 STRAGEGY 9: On its way, the drone takes pictures of what’s enroute, building a full catalog of the field.
 Each image is geo coded.
