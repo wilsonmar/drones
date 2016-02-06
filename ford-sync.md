@@ -11,18 +11,16 @@ A sample application screen (Accuweather):
 
 Notice the size of the buttons.
 
-The video shows what the drone sees.
-
-On the ${TeamName} app:
-
-   Buttons:
-   
-   * Launch
-   * Abort / Return home
+0. Hit the Apps button.
+1. Select the ${TeamName} app.
+0. The video shows what the drone sees.
 
    Video feed (via Bluetooth from the Android, via USB cable from iPhones)
 
-The mobile app would have more functionality.
+   The mobile app would have more functionality.
+
+1. Press the Launch button.
+2. Press the Abort / Return home
 
 References:
  * http://blog.caranddriver.com/first-touch-we-sample-fords-sync-3-interface-and-it-doesnt-suck/
