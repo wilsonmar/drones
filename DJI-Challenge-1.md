@@ -67,18 +67,6 @@ A 50x50 meter arena = 164 feet How high this is this?
 0. Battery chargers
 0. "Mission timer stops when the M100 motors switch off.” so ideally the drone would power itself off.
 
-### mobile app components:
-Connection status with drone
-Video feed from camera
-Self-test results?
-Take-off button
-Abort button
-Return home
-Mission timer
-Mission History 
-Connection status with F150 Touch screen
-Connection status with server
-### Ford screen (subset) https://www.ford.com/technology/sync/
 
 Map
 Button “Abort” "Return home”
