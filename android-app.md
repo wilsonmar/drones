@@ -47,7 +47,7 @@ Write code to show video from the drone's camera:
 
 0. Use large buttons like other DJI apps:
 
-   ![recordvideo](https://cloud.githubusercontent.com/assets/300046/12869989/819ea920-cce4-11e5-9986-4000b346402e.png)
+   <img alt="recordvideo" src="https://cloud.githubusercontent.com/assets/300046/12869989/819ea920-cce4-11e5-9986-4000b346402e.png">
 
 0. Position touchable buttons the same as in the Ford SYNC dashboard view.
 
