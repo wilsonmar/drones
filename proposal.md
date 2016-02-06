@@ -13,7 +13,7 @@ STRATEGY 1: Flying vertically up and down would avoid obstacles better that flyi
 
 STRATEGY 2: The drone's flight path is based on a prioritized list of possible targets and <strong>flight paths</strong>, 
 which the drone flies to in order. 
-The destination of highest likelihood is at the top of the list.
+The destination of highest likelihood (based on results of object recognition) is at the top of the list.
 
 STRATEGY 3: The drone operates <strong>autonomously</strong>, 
 but can be aided by additional input from powerful machine-learning servers
