@@ -11,11 +11,6 @@ Database to house images
 Database software to receive images (Riak?)
 Charging
 
-Questions:
-A) How is the 50 x 50m delimited? Yes, with GPS coordinates but also recognizable visible physical boundaries too?
-
----------------
-
 # Proposal
 
 # Development Plan
@@ -23,10 +18,6 @@ A) How is the 50 x 50m delimited? Yes, with GPS coordinates but also recognizabl
 # Technical Feasibility Analysis
 
 # Development Schedule
-
-### Mission Events Incremental MVPs 
-A 50x50 meter arena = 164 feet How high this is this? 
-   Watch a high dive: https://www.youtube.com/watch?v=rEiwAAHakI0
 
 #### 1st round:
 
