@@ -43,11 +43,12 @@ Write code to show video from the drone's camera:
    created by oliverou.
 0. DJISDKManager
 
-## UI Guidelines:
-
-0. Use large transparent buttons like other DJI apps (DJI-Mobile-SDK/Android-FPVDemo):
+The end result is this:
 
    <img alt="recordvideo" src="https://cloud.githubusercontent.com/assets/300046/12869989/819ea920-cce4-11e5-9986-4000b346402e.png">
+
+## UI Guidelines:
+0. Use large transparent buttons like other DJI apps (DJI-Mobile-SDK/Android-FPVDemo):
 
 0. Position touchable buttons matching locations as in the Ford SYNC dashboard view.
 0. Use generic button shapes for international audences. ???
