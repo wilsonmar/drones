@@ -45,9 +45,23 @@ Write code to show video from the drone's camera:
 
 ## UI Guidelines:
 
-0. Use large buttons like other DJI apps:
+0. Use large transparent buttons like other DJI apps (DJI-Mobile-SDK/Android-FPVDemo):
 
    <img alt="recordvideo" src="https://cloud.githubusercontent.com/assets/300046/12869989/819ea920-cce4-11e5-9986-4000b346402e.png">
 
-0. Position touchable buttons the same as in the Ford SYNC dashboard view.
+0. Position touchable buttons matching locations as in the Ford SYNC dashboard view.
+0. Use generic button shapes for international audences. ???
+0. Toggle buttons with color (red for recording, clear for ready to record).
 
+   * Clear Capture button turns to red and "Stop recording" when pressed.
+     This would eliminate a button.
+   * Play/Pause.
+
+0. Other screens (tabs):
+
+   * Missions list
+   * Map of mission
+   * List of waypoints (flight path) for mission selected, such as current mission.
+   * List of media transferred to server (listed by time).
+   * Data from server
+   
