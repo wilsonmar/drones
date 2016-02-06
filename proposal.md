@@ -9,7 +9,7 @@ The strategy of this team is to minimize both:
 
 Here are the specific stragies which drive the innovative design:
 
-STRATEGY 1: Flying vertically up and down would avoid obstacles better that across the field.
+STRATEGY 1: Flying vertically up and down would avoid obstacles better that flying horizontally.
 
 STRATEGY 2: The drone's flight path is based on a prioritized list of possible targets and <strong>flight paths</strong>, 
 which the drone flies to in order. 
