@@ -9,14 +9,14 @@ has great image stabilization and ease-of-flying technologies.
 * http://www.youtube.com/DJI
 
 ### The DJI Challenge
-<a target="_blank" href="https://www.youtube.com/watch?v=_kXoUsqzzMU">
-Video Introducing the SDK Challenge</a>
-
 ![drone dji developer challenge arena](https://cloud.githubusercontent.com/assets/300046/12867343/d4bb8442-cc9f-11e5-8b78-720c7e0cf464.jpg)
+Photo from <a target="_blank" href="https://www.youtube.com/watch?v=_kXoUsqzzMU">
+video Introducing the SDK Challenge</a>
 
 ![drone-on-truck](https://cloud.githubusercontent.com/assets/300046/12867256/81a776a0-cc9d-11e5-9a44-43f086b546c1.png)
+Photo from <a target="_blank" href="https://www.youtube.com/watch?v=_kXoUsqzzMU">
+video Introducing the SDK Challenge</a>
 
-![drone-f150-sync-dash-menu](https://cloud.githubusercontent.com/assets/300046/12867279/36fa7750-cc9e-11e5-860a-1a1dc193bdce.png)
 
 Felix Tian
 
