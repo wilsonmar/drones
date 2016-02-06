@@ -67,6 +67,9 @@ A 50x50 meter arena = 164 feet How high this is this?
 0. Battery chargers
 0. "Mission timer stops when the M100 motors switch off.” so ideally the drone would power itself off.
 
+0. ZenMuse X3 is the camera.
+0. Manifold is the "High performance computing designed for the DJI Onboard SDK to bring true intelligence to flying platforms."
+0. Guidance is for visual sensing 
 
 Map
 Button “Abort” "Return home”
