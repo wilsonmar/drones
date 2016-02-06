@@ -14,11 +14,17 @@
    * share media to the SkyPixel aerial photography community.
    * Detailed flight records.
    
-   
-## DJI template app:
+   WARNING: There are complaints by users who complain about the app draining battery,
+   especially after an app update.
+
+0. Alternately, install the iPhone app from:
+   https://github.com/dji-sdk/Mobile-SDK-iOS
+
+## Use template dji-sdk/Mobile-SDK-Android
 
 0. Create an App and get the API key.
-0. Install Android Studio 1.5 from http://developer.android.com/sdk/index.html.
+0. Install Android Studio 1.5 from 
+   http://developer.android.com/sdk/index.html.
 0. Create a project folder.
 0. git clone https://github.com/dji-sdk/Mobile-SDK-Android
 0. Paste the API key in the AndroidManifest.xml.
@@ -28,6 +34,8 @@
 0. Build and run project.
 0. Update the firmware 
 
+
+## Use DJI-Mobile-SDK/Android-FPVDemo
 Write code to show video from the drone's camera:
 
 0. clone tutorial at
