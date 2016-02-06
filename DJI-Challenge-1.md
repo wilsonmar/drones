@@ -28,23 +28,6 @@ A) How is the 50 x 50m delimited? Yes, with GPS coordinates but also recognizabl
 A 50x50 meter arena = 164 feet How high this is this? 
    Watch a high dive: https://www.youtube.com/watch?v=rEiwAAHakI0
 
-#### In the final round/during competition:
-0. Calibration (barometer for altitude)
-0. GPS coordinates input (in a local file to start, max altitude for failsafe)
-0. Calculate Flight path (for shortest mission time) given GPS.
-0. Take-off command (from interactive display in the F150
-0. RTH (Return to home)
-0. Abort mission for manual piloting.
-0. Chromecast or iOS AirPlay Mirroring for App broadcast
-0. Stream video to cloud web server for the international press to watch ;)
-0. Streaming live footage to the F150 (800 pixels wide by 384 pixels every 4 seconds)
-0. Avoid obstacles (wind, go around )
-0. Assimilating recordings (does it look like a survivor tag).
-0. Recognize GPS coordinates
-0. Abort landing.
-0. Landing on ground
-0. Landing on a moving vehicle
-
 #### 1st round:
 
 #### 2nd round:
