@@ -58,9 +58,10 @@ The end result is this:
 
 0. Other screens (tabs):
 
-   * Missions list
-   * Map of mission
-   * List of waypoints (flight path) for mission selected, such as current mission.
-   * List of media transferred to server (listed by time).
-   * Data from server
+   * <strong>Missions</strong> list (current, auto archive to server, auto delete from phone, retrieve from server)
+   * <strong>Map</strong> of mission area and flight path taken between waypoints. 
+   * Tap to see video taken while over that waypoint ???
+   * List of <strong>media transferred</strong> to server (listed by time).
+   * (current, auto archive to server, auto delete from phone, retrieve from server)
+   * <strong>Conditions</strong> during each mission - with additional telemetry from server (heat, etc.).
    
