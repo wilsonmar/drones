@@ -24,7 +24,8 @@ For example, the server can cross-correlate information about specific objects b
 but it is one aspect why drones need to prioritize some areas over others.)
 
 STRATEGY C: Pictures from the drone would <strong>go through the mobile phone</strong>
-which receives and forwards media from the drone to the server, then notifies the drone with information from the server.
+which receives and <strong>forwards</strong> media from the drone to the server, 
+then notifies the drone with information from the server.
 
 STRATEGY D: The location of obstacles identified by the drone but not also recognized by the server 
 are transmitted back to the server to refine object recognition algorithms.
@@ -32,7 +33,10 @@ are transmitted back to the server to refine object recognition algorithms.
 STRATEGY E: Images taken are saved on a server's database for comparison across time,
 and to use for the basis of additional learning.
 
-STRAGEGY F: On its way to a waypoint/destination, the drone takes pictures of what’s enroute, building a full catalog of the field.
+   QUESTION: Is this out of scope?
+
+STRAGEGY F: On its way to a waypoint/destination, the drone takes pictures of what’s enroute, 
+building a <strong>full persistent catalog of the field</strong>.
 Each image is time and geo-coded with elevation data.
 
 STRATEGY G: The higher the resolution of the camera on the drone, the higher the drone can fly.
@@ -40,10 +44,13 @@ Upon takeoff, the drone <strong>first flies high</strong> over the middle of the
 taking a hi-res overview picture used to identify objects and prioritize waypoints.
 "Conventional" approaches (such as the CNN Google uses) are based on the 2-dimentional pictures.
 
-This is recognizing there's an FAA enforced 400 foot ceiling as well as No Fly Zones (NFZs)
-http://www.dji.com/fly-safe/category-mc?www=v1
+   This is recognizing there's an FAA enforced 400 foot ceiling as well as No Fly Zones (NFZs)
+   http://www.dji.com/fly-safe/category-mc?www=v1
 
 STRATEGY H: <strong>Flying vertically</strong> up and down would avoid obstacles better that flying horizontally.
+
+   Spaces with a ceiling would of course limit how might the drone can fly.
+   But still the basic strategy is to remain high as possible to avoid low objects.
 
 STRATEGY I: There is a chance that the server is slow in coming back with its recommendations.
 In case that happens, the drone circles near the perimeter of its mission field 
