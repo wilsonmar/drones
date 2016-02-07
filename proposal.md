@@ -2,7 +2,7 @@
 
 ## Physical (Hardware) Components:
 * F150 flatbed truck to transport the drone (operated by DJI personnel)
-* SYNC hardware
+* SYNC hardware compatible with Samsung smartphone (Galexy SIII).
 * Android mobile smartphone
 
 * DJI’s Phantom 3 Pro flying platform
