@@ -1,12 +1,15 @@
-This article contains notes on making use of drones.
+This article contains the proposal and progress notes on using drones from DJI.
 
+https://developer.dji.com/challenge2016/
 
-Felix Tian
+The proposal as requested:
 
-http://accelerate.im/challenges
-
-http://accelerate.im/events/12
-
-OSMO is a revolutionary handheld camera that helps you record videos and take photos, stabilizing the camera no matter how you move it. Find out more about this camera here: http://www.dji.com/product/osmo. We challenge you to build an amazing mobile app for DJI Osmo using our Mobile SDK.
-The winning team will receive a $3,000 cash award plus one DJI Osmo for each team member (up to five).
-
+* ![Proposal](proposal.md)
+* ![Team](team.md)
+* ![Development Plan](development.md)
+   * ![Android app](android-app.md)
+   * ![Ford SYNC Applink](ford-sync.md)
+   * ![Casting video](casting.md)
+   * ![Navigation](navigation.md)
+* ![Resources](resources.md)
+   * ![DJI SDKs](dji-sdks.md)
