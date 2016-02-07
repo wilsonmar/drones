@@ -45,4 +45,4 @@ References:
  * https://developer.ford.com/
  * https://developer.ford.com/pages/applink/
  * https://developer.ford.com/pages/ale (AppLink™Emulator) software emulator
-
+ * https://www.youtube.com/watch?v=n9zorApPNy0  Ford Sync AppLink Android Demo - Playing Online Audio
