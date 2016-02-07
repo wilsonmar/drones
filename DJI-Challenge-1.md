@@ -65,10 +65,3 @@ iPhone needs to be plugged into the car with a USB cable; Android can do Bluetoo
 
 The M100 has a 40 minute fly time.
 
-## Team Members’ Responsibilities & Task Assignments
-* Ford SYNC Touch interface: Richard Puckett
-* Image Recognition ML: Lance Hughes
-* Abhi Kolhe
-* Larissa Bemis
-* iOS app (React): Wilson Mar ?
-* Christopher Trudeau
