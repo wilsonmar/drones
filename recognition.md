@@ -1,6 +1,6 @@
 This article describes now AprilTags are recognized by software.
 
-In order to figure out the optimal altitude and magnification levels needed:
+In order to figure out the optimal camera altitude and magnification levels needed for reliable image recognition.
 
 ## Identify range of effectivity
 
@@ -24,6 +24,8 @@ TEST STRATEGY A: Obtain a baseline number at close range with maximum light and 
 
 TEST STRATEGY B: Repeat the test using different <strong>light levels</strong>.
 Numbers are in Lumens.
+
+   QUESTION: When would the drone need an additional light source?
 
 TEST STRATEGY C: Position AprilTags at <strong>different angles</strong>.
 0 degrees is flat to the camera. 45 is the incline.
