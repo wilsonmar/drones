@@ -1,22 +1,39 @@
+# Proposal
 
-#### 2nd round:
-0. Input GPS coordinates from an interface
-0. DJI’s Manifold (portable computation platform) 
-0. DJI’sX3 (4K gimbal mounted camera), 
-0. DJI’s Guidance (5 directions of depth sensing)
-0. Ford API Library and Emulator
-0. Example AprilTags for objects and vehicle
+## Physical (Hardware) Components:
+* F150 flatbed truck to transport the drone (operated by DJI personnel)
+* SYNC hardware
+* Android mobile smartphone
+
+* DJI’s Phantom 3 Pro flying platform
+* DJI’s Matrice 100 (M100) flying platform
+* Antenna sticking up from unit keeps the copter from hitting the ceiling.
+* DJI’s Manifold (portable computation platform) 
+* DJI’sX3 (4K gimbal mounted camera), 
+* DJI’s Guidance (5 directions of depth sensing)
+
+### Supplies and Tooling
+* Battery tester
+* Extra Battery
+* Battery chargers
+* Replacements for damage (propellers, etc.)
+* Example AprilTags for objects and vehicle
+* Tools to repair units.
+
+## Software Components
+* DJI’s Mobile SDK for iOS and Android, 
+   * DJI’s Guidance SDK
+   * DJI’s Onboard SDK
+   * Ford API Library and Emulator
+   * DJI emulator
+
+The M100 has a 40 minute fly time.
+
 
 #### Out of scope:
 0. Wind resistance (as this is in an indoor arena)
 0. ID recognition of “survivors” (http://people.csail.mit.edu/kaess/apriltags/)
 
-# Components from DJI:
-0. DJI’s Matrice 100 (M100) flying platform, 
-0. DJI’s Mobile SDK for iOS and Android, 
-0. DJI’s Guidance SDK
-0. DJI’s Onboard SDK
-0. Battery chargers
 0. "Mission timer stops when the M100 motors switch off.” so ideally the drone would power itself off.
 
 0. ZenMuse X3 is the camera.
