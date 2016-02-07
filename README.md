@@ -14,7 +14,7 @@ The proposal as requested:
    * ![Navigation](navigation.md)
 * Schedules:
    * [Development Schedule](dev-schedule.md)
-   * [Demo checklist](demo-checklist.md)
+   * [Event checklist](event-checklist.md)
 * ![References](references.md)
 
 This repo also contains notes taken while we work:
