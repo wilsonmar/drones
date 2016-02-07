@@ -17,6 +17,20 @@ video Introducing the SDK Challenge</a>
 
    Notice there are graphic icons within each button so users are not totally reliant on reading and understanding the English words.
 
+## Plug in mobile device
+On the SYNC 3 GEN II for 2016: https://www.youtube.com/watch?v=cjo4kJTXknc
+
+Plugging in an iOS device should show an Apple AirPlay menu:
+
+   <img width="403" alt="ford sync 2016 apple car play menu" src="https://cloud.githubusercontent.com/assets/300046/12874480/918b9ec4-cd89-11e5-839a-18ffe6bdc719.png">
+
+Plugging in and Android device would shold a Google Now screen customized to the device's user information:
+
+   <img width="440" alt="ford sync 2016 google now menu" src="https://cloud.githubusercontent.com/assets/300046/12874476/7de0b756-cd89-11e5-95fc-b64e000b8627.png">
+
+
+## Use custom app:
+
 0. Hit the Apps button or press the voice button on the wheel and say voice command "mobile apps".
 1. Scroll to the ${TEAM} app or press the voice button on the wheel and say "Search apps".
 2. Select the  ${TEAM} app (if the app is compatible with the version of the SYNC).
