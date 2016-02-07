@@ -18,16 +18,16 @@ video Introducing the SDK Challenge</a>
    Notice there are graphic icons within each button so users are not totally reliant on reading and understanding the English words.
 
 0. Hit the Apps button or press the voice button on the wheel and say voice command "mobile apps".
-1. Scroll to the ${TEAM} app and select it.
+1. Scroll to the ${TEAM} app or press the voice button on the wheel and say "Search apps".
+2. Select the  ${TEAM} app (if the app is compatible with the version of the SYNC).
+
 1. Hit <strong>Launch</strong> or press the voice button on the wheel and say voice command "launch".
 
   Launch is not performed if the SYNC detects outside temperatures to be below the minimum or maxiumum temperatures set for the unit.
-  
-  By default, that is 0C and 49C.
-  
-0. Click Settings to change the minimum and maximum temperatures.
 
-1. Select the ${TeamName} app.
+0. Click app Settings button.
+1. Change the minimum and maximum temperatures. By default, that is 0C and 49C.
+1. Exit settings.
 0. The video shows what the drone sees.
 
    Video feed (via Bluetooth from the Android, via USB cable from iPhones)
