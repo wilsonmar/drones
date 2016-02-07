@@ -8,7 +8,15 @@
 
 ## Team Members
 
-## Richard Pluckett, Team Lead
+### Richard Pluckett, Team Lead
+
+### Lance Hughes
+
+### Abhi Kolhe
+
+### Larissa Bemis
+
+### Christopher Trudeau
 
 
 ### Wilson Mar
