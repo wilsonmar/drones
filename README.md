@@ -13,7 +13,7 @@ The proposal as requested:
    * ![Recognition of AprilTags](recognition.md)
    * ![Navigation](navigation.md)
 * [Development Schedule](schedule.md)
-* ![References](resferences.md)
+* ![References](references.md)
 
 This repo also contains notes taken while we work:
 
