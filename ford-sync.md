@@ -26,4 +26,7 @@ References:
  * http://blog.caranddriver.com/first-touch-we-sample-fords-sync-3-interface-and-it-doesnt-suck/
  * http://owner.ford.com/how-tos/sync-technology/all/sync-applink/use-voice-commands-to-control-your-smartphone-apps.html
     Voice commands?
+ * https://developer.ford.com/
+ * https://developer.ford.com/pages/applink/
+ * https://developer.ford.com/pages/ale (AppLink™Emulator) software emulator
 
