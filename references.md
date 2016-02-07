@@ -13,6 +13,7 @@ has great image stabilization and ease-of-flying technologies.
 https://developer.dji.com/challenge2016/
 
 The contest rules are at 
+https://dl.djicdn.com/downloads/dev/DevChallenge2016/2016%20DJI%20Developer%20Challenge%20Official%20Rules_v1.0.pdf
 
 The arena is 50x50 meter arena = 164x164 square feet
 
