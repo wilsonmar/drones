@@ -72,9 +72,3 @@ The M100 has a 40 minute fly time.
 * Larissa Bemis
 * iOS app (React): Wilson Mar ?
 * Christopher Trudeau
-
-# Reference Materials 
-
-https://developer.ford.com/
-https://developer.ford.com/pages/applink/
-https://developer.ford.com/pages/ale (AppLink™Emulator) software emulator
