@@ -18,6 +18,14 @@ Notice the large size of the buttons (___ x ___ pixels) so they are easy to reac
 Notice there are graphic icons within each button so users are not totally reliant on reading and understanding the English words.
 
 0. Hit the Apps button.
+1. Hit <strong>Launch</strong>.
+
+  Launch is not performed if the SYNC detects outside temperatures to be below the minimum or maxiumum temperatures set for the unit.
+  
+  By default, that is 0C and 49C.
+  
+0. Click Settings to change the minimum and maximum temperatures.
+
 1. Select the ${TeamName} app.
 0. The video shows what the drone sees.
 
