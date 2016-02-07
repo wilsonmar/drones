@@ -8,9 +8,10 @@ In its simplest terms, the two criteria to judge feasibility are <strong>cost</s
 
 There are several points of view:
 
-  0. The self-interest of individual team members developing the solution
-  0. The venture (team) as a whole developing the solution
-  0. The organizations involved in search and rescue (users of the system)
+  0. <a href="#TeamMembers">The self-interest of individual team members developing the solution</a>
+  0. <a href="#Venture">The venture (team) as a whole developing the solution</a>
+  0. <a href="#Users">The organizations involved in search and rescue (users of the system)</a>
+  0. <a href="#DJI">DJI</a>
 
 <hr />
 
@@ -41,7 +42,16 @@ Those using the system would have success criteria such as:
 
    * Precision in finding survivors
    * Ease of use
+   * Archival of media created during flights
+   * Reusability of systems
    * Expandability (to use more drones in the future)
+
+<a name="DJI">
+## 4. DJI</a>
+
+Those using the system would have success criteria such as:
+
+   * Precision in finding survivors
 
 ### Strengths
 ### Weaknesses
