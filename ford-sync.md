@@ -5,20 +5,21 @@ The SYNC Settings screen:
 Photo from <a target="_blank" href="https://www.youtube.com/watch?v=_kXoUsqzzMU">
 video Introducing the SDK Challenge</a>
 
-SUGGESTION: Keep consistent with the most popular existing apps (Spotify, Accuweather):
+   SUGGESTION: Keep consistent with the most popular existing apps (Spotify, Accuweather):
 
-![dji ford sync3accuweather](https://cloud.githubusercontent.com/assets/300046/12869696/54fb4882-ccdb-11e5-999c-d838c09b6e52.jpg)
+   ![dji ford sync3accuweather](https://cloud.githubusercontent.com/assets/300046/12869696/54fb4882-ccdb-11e5-999c-d838c09b6e52.jpg)
 
-Notice the app's buttons are aligned from left to right for ease of reach by drivers seated on the left side of the car.
+   Notice the app's buttons are aligned from left to right for ease of reach by drivers seated on the left side of the car.
 
-SUGGESTION: Center align the buttons so drivers on either side can feel comfortable with the screen.
+   SUGGESTION: Center align the buttons so drivers on either side can feel comfortable with the screen.
 
-Notice the large size of the buttons (___ x ___ pixels) so they are easy to reach by drivers concentrating on the road.
+   Notice the large size of the buttons (___ x ___ pixels) so they are easy to reach by drivers concentrating on the road.
 
-Notice there are graphic icons within each button so users are not totally reliant on reading and understanding the English words.
+   Notice there are graphic icons within each button so users are not totally reliant on reading and understanding the English words.
 
-0. Hit the Apps button.
-1. Hit <strong>Launch</strong>.
+0. Hit the Apps button or say voice command "mobile apps".
+1. Scroll to the ${TEAM} app and select it.
+1. Hit <strong>Launch</strong> or say voice command "launch".
 
   Launch is not performed if the SYNC detects outside temperatures to be below the minimum or maxiumum temperatures set for the unit.
   
