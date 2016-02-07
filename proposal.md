@@ -14,6 +14,7 @@
 
 
 ### Supplies and Tooling
+* Box to mail copter via UPS/FedEx
 * Battery tester
 * Extra Battery
 * Battery chargers
