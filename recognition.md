@@ -11,8 +11,14 @@ For repeatability and comparability:
 
 Effectiveness of image recognition is measured in percentage of 100. ???
 
-TEST STRATEGY A: Design AprilTags of different sizes on a 8.5x11 page.
+Design AprilTags of different sizes on a 8.5x11 page.
 Take a picture of the target at different feet lengths away from the target.
+
+   * https://april.eecs.umich.edu/wiki/index.php/AprilTags
+   * https://itunes.apple.com/us/app/apriltag/id736108128?mt=8
+   * Ed Olson's https://april.eecs.umich.edu/apriltags/ is no longer available.
+
+TEST STRATEGY A: Obtain a baseline number at close range with maximum light and flat angle.
 
 TEST STRATEGY B: Repeat the test using different <strong>light levels</strong>.
 Numbers are in Lumens.
