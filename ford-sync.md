@@ -9,7 +9,11 @@ A sample application screen (Accuweather):
 
 ![dji ford sync3accuweather](https://cloud.githubusercontent.com/assets/300046/12869696/54fb4882-ccdb-11e5-999c-d838c09b6e52.jpg)
 
-Notice the size of the buttons.
+Notice the app's buttons are aligned from left to right for ease of reach by drivers seated on the left side of the car.
+
+SUGGESTION: Center align the buttons so drivers on either side can feel comfortable with the screen.
+
+Notice the large size of the buttons (___ x ___ pixels) so they are easy to reach by drivers concentrating on the road.
 
 0. Hit the Apps button.
 1. Select the ${TeamName} app.
