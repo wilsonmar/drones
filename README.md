@@ -19,6 +19,7 @@ The proposal as requested:
 
 This repo also contains notes taken while we work:
 
+   * ![Windows Dev Platform](dev-platform.md)
    * ![DJI SDKs](dji-sdks.md)
    * ![Android App Notes](android-app-notes.md)
    * ![Server Notes](server.md)
