@@ -1,5 +1,15 @@
 <img align="right" alt="the-a-team" src="https://cloud.githubusercontent.com/assets/300046/12873773/6dfb4f6c-cd7b-11e5-9da6-1f5bf42b0987.jpg">
 
+## Who
+
+| Initials | Name/Email | Phone | Notes |
+| -------- | ---------- | ----- | ----- |
+| R | Richard Puckett | - | Team Lead, Ford SYNC Touch interface |
+| W | <a href="email:WilsonMar@gmail.com">WilsonMar@gmail.com</a> | 310.320-7878 | - | - |
+| L | Lance Hughes | - | Image Recognition ML |
+| A | Abhi Kolhe | - | ? |
+| C | Christopher Trudeau | - | ? |
+
 ## Team Members
 * Richard Puckett
 * Lance Hughes
@@ -10,7 +20,7 @@
 
 ## Team Members
 
-### Richard Pluckett, Team Lead
+### Richard Pluckett
 
 ### Lance Hughes
 
