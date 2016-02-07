@@ -1,6 +1,6 @@
 This article describes now AprilTags are recognized by software.
 
-In order to figure out the optimal altitude to 
+In order to figure out the optimal altitude and magnification levels needed:
 
 ## Identify range of effectivity
 
@@ -20,11 +20,13 @@ Take a picture of the target at different feet lengths away from the target.
 
 TEST STRATEGY A: Obtain a baseline number at close range with maximum light and flat angle.
 
+   400 feet is the maximum from FAA?
+
 TEST STRATEGY B: Repeat the test using different <strong>light levels</strong>.
 Numbers are in Lumens.
 
 TEST STRATEGY C: Position AprilTags at <strong>different angles</strong>.
-0 degrees is flat to the camera.
+0 degrees is flat to the camera. 45 is the incline.
 
 TEST STRATEGY D: Try different <strong>telephoto lenses</strong>.
 The standard lens is 3.7 mm = 20 mm in 35 mm terms. See video with one: https://www.youtube.com/watch?v=JViCoX57fFU
@@ -36,12 +38,14 @@ Runs are planned to obtain numbers at extremes, so we don't waste our time.
 
 | Strategy | Light | Feet | Angle | Description | Effectiveness |
 | -------- |-----: |----: | ----: | ----------- | ------------- |
-| A | 5000 |   10 |   0 | Closest - baseline |  99 |
-| B |  500 | 1000 |   0 | Low light | 15 |
-| A | 5000 | 1000 |   0 | Farthest | 15 |
+|        A |  5000 |   10 |     0 | Closest - baseline |  99 |
+|        B |   500 |  400 |     0 | Farthest Extreme low light | 15? |
+|        C |  5000 |   10 |    45 | Closest angle | 15 |
 
 
 ## Out of scope:
+
+This information can be in the app to assist.
 
 <a target="_blank" href="http://meshlab.sourceforge.net/">
 MeshLab</a> to analyze 3D objects (unstructured 3D triangular meshes)
