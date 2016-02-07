@@ -1,6 +1,6 @@
 This article contains checklists of who does what when at rehersals and during the actual event.
 
-| When | Action | Item  | Who | Why/Notes |
+| When | Action | Item  | <a href="team.md">Who</a> | Why/Notes |
 | --- | ---- | ---- | ---- | --------- |
 | Before | Update | Checklist | J | --------- |
 | Before | Ship | drone | J | --------- |
@@ -21,11 +21,4 @@ This article contains checklists of who does what when at rehersals and during t
    0. Post-flight
    0. Site Break-down
    0. After party
-
-## Who
-
-| Initials | Name | Phone | Notes |
-| -------- | ---- | ----- | ----- |
-| R | - | - | - |
-| W | Wilson Mar | 310.320-7878 | - |
 
