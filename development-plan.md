@@ -1,7 +1,18 @@
 The objective is to create several stages of product that increase in useful capability over time 
 (rather than individual components that can't do much unless assembled together at the end):
 
-A. Mobile phone controlling Phantom 3 drone:
+<a href="#MobileCapabilities">
+A. Mobile phone controlling Phantom 3 drone</a>
+
+<a href="#DroneCapabilities">
+B. Image recognition and route planning/prioritization</a>
+
+<a href="#ServerCapabilities">
+C. Server (may be out of scope)</a>
+
+
+<a name="MobileCapabilities">
+## A. Mobile phone controlling Phantom 3 drone</a>
 
    0. Take-off command (from interactive display in the F150
    0. Abort mission button (to invoke manual piloting).
@@ -16,7 +27,8 @@ A. Mobile phone controlling Phantom 3 drone:
    1. Display mission log
    1. Display missions history
 
-B. Image recognition and route planning/prioritization:
+<a name="DroneCapabilities">
+## B. Image recognition and route planning/prioritization</a>
 
    0. AprilTag software on a Mac identity the position of AprilTag and dervive a value from image.
    0. Drone derive a value from AprilTag (http://people.csail.mit.edu/kaess/apriltags/)
@@ -27,6 +39,19 @@ B. Image recognition and route planning/prioritization:
    0. Return to home (RTH) around known objects.
    0. Prioritize among several targets (for the quickest route).
    0. Landing on a moving vehicle
+
+<a name="ServerCapabilities">
+## C. Server (out of scope)</a>
+
+   0. Archival of video and photos (media assets)
+   1. Retrieval of individual media assets
+   2. Comparison of differences in media of same area over time
+   3. Issue alert if differences are significant enough
+   0. Identify what areas have been covered and what needs coverage
+   1. Generate coverage map display
+   0. Plan missions 
+   1. Prioritize missions
+   2. Maintain history of missions by drones and battery use (for predictive maintenance)
 
 Along the way:
 
