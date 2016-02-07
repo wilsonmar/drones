@@ -8,9 +8,10 @@
 * DJI’s Phantom 3 Pro flying platform
 * DJI’s Matrice 100 (M100) flying platform
 * Antenna sticking up from unit keeps the copter from hitting the ceiling.
-* DJI’s Manifold (portable computation platform) 
-* DJI’sX3 (4K gimbal mounted camera), 
-* DJI’s Guidance (5 directions of depth sensing)
+* DJI’s Manifold (portable computation platform) the "High performance computing designed for the DJI Onboard SDK to bring true intelligence to flying platforms."
+* DJI’s ZenMuse X3 (4K gimbal mounted camera)
+* DJI’s Guidance (5 directions of depth sensing), for visual sensing.
+
 
 ### Supplies and Tooling
 * Battery tester
@@ -26,19 +27,6 @@
    * DJI’s Onboard SDK
    * Ford API Library and Emulator
    * DJI emulator
-
-The M100 has a 40 minute fly time.
-
-
-#### Out of scope:
-0. Wind resistance (as this is in an indoor arena)
-0. ID recognition of “survivors” (http://people.csail.mit.edu/kaess/apriltags/)
-
-0. "Mission timer stops when the M100 motors switch off.” so ideally the drone would power itself off.
-
-0. ZenMuse X3 is the camera.
-0. Manifold is the "High performance computing designed for the DJI Onboard SDK to bring true intelligence to flying platforms."
-0. Guidance is for visual sensing 
 
 
 ## Strategy
