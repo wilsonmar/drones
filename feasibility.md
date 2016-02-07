@@ -49,9 +49,10 @@ Those using the system would have success criteria such as:
 <a name="DJI">
 ## 4. DJI</a>
 
-Those using the system would have success criteria such as:
+The company sponsoring the challenge would have these success criteria:
 
-   * Precision in finding survivors
+   * Increased capability in products
+   * Publicity which generates additional sales
 
 ### Strengths
 ### Weaknesses
