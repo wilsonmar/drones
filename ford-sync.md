@@ -5,7 +5,7 @@ The SYNC Settings screen:
 Photo from <a target="_blank" href="https://www.youtube.com/watch?v=_kXoUsqzzMU">
 video Introducing the SDK Challenge</a>
 
-A sample application screen (Accuweather):
+SUGGESTION: Keep consistent with the most popular existing apps (Spotify, Accuweather):
 
 ![dji ford sync3accuweather](https://cloud.githubusercontent.com/assets/300046/12869696/54fb4882-ccdb-11e5-999c-d838c09b6e52.jpg)
 
@@ -27,6 +27,7 @@ Notice there are graphic icons within each button so users are not totally relia
 
 1. Press the Launch button.
 2. Press the Abort / Return home
+3. To close the app, click the "More ..." button and select Close.
 
 References:
  * http://blog.caranddriver.com/first-touch-we-sample-fords-sync-3-interface-and-it-doesnt-suck/
