@@ -14,10 +14,11 @@ The proposal as requested:
    * ![Ford SYNC Applink](ford-sync.md)
    * ![Navigation](navigation.md)
 * [Development Schedule](schedule.md)
-* ![Resources](resources.md)
-   * ![DJI SDKs](dji-sdks.md)
+* ![References](resferences.md)
 
 This repo also contains notes taken while we work:
 
+   * ![DJI SDKs](dji-sdks.md)
    * ![Android App Notes](android-app-notes.md)
    * ![Server Notes](server.md)
+   * ![Resources](resources.md)
