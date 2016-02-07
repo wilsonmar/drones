@@ -1,5 +1,7 @@
 This section studies the feasibility of the proposal.
 
+<a target="_blank" href="http://www.army-technology.com/products/webcop/"><img align="right" alt="webcop-header" src="https://cloud.githubusercontent.com/assets/300046/12871204/e306459a-cd22-11e5-84bc-1f23874e602c.jpg"></a>
+
 According to https://en.wikipedia.org/wiki/Feasibility_study
 a feasibility study evaluates the project's potential for success.
 A feasibility study aims to objectively and rationally uncover strengths, weaknesses, opportunities, and threats in the environment.
