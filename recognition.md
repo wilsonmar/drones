@@ -38,7 +38,7 @@ The standard lens is 3.7 mm = 20 mm in 35 mm terms. See video with one: https://
 
 <a name="Results">
 ## Results</a>
-Runs are planned to obtain numbers at extremes, so we don't waste our time.
+Runs are planned to obtain numbers at the extremes, so we don't waste our time with experiments for intermediate values.
 
 | Strategy | Light | Feet | Angle | Description | Effectiveness |
 | -------- |-----: |----: | ----: | ----------- | ------------- |
@@ -46,6 +46,7 @@ Runs are planned to obtain numbers at extremes, so we don't waste our time.
 |        B |   500 |  400 |     0 | Farthest Extreme low light | 15? |
 |        C |  5000 |   10 |    45 | Extreme angle | 15 |
 
+NOTE: The above are sample values provided for illustrative purposes.
 
 ## Out of scope:
 
