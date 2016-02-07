@@ -11,6 +11,8 @@
 | C | Christopher Trudeau | - | ? |
 
 ### Richard Pluckett
+<img align="right" width="174" alt="richard puckett photo 348x354" src="https://cloud.githubusercontent.com/assets/300046/12874711/f3e73606-cd8d-11e5-8d7b-55a5f80c5f97.png">
+Richard is ...
 
 ### Lance Hughes
 
@@ -22,7 +24,7 @@
 
 
 ### Wilson Mar
-<img align="right" alt="wilson mar 200x200" src="https://cloud.githubusercontent.com/assets/300046/12874704/c5a2fbfe-cd8d-11e5-9b7b-1836d6c212d0.jpg">
+<img align="right" alt="wilson mar 200x200" width="174"  src="https://cloud.githubusercontent.com/assets/300046/12874704/c5a2fbfe-cd8d-11e5-9b7b-1836d6c212d0.jpg">
 Wilson is a Software Design Principal at Concur SAP where he works tuning image storage and retrieval mechanisms using Riak databases.
 Previously, he worked in the Skunkworks division of Lockheed Martin, 
 as part of the team that built the top-secret Stealth Fighter.
