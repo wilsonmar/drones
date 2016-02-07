@@ -44,7 +44,7 @@ Runs are planned to obtain numbers at extremes, so we don't waste our time.
 | -------- |-----: |----: | ----: | ----------- | ------------- |
 |        A |  5000 |   10 |     0 | Closest - baseline |  99 |
 |        B |   500 |  400 |     0 | Farthest Extreme low light | 15? |
-|        C |  5000 |   10 |    45 | Closest angle | 15 |
+|        C |  5000 |   10 |    45 | Extreme angle | 15 |
 
 
 ## Out of scope:
