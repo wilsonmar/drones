@@ -10,16 +10,6 @@
 | A | Abhi Kolhe | - | ? |
 | C | Christopher Trudeau | - | ? |
 
-## Team Members
-* Richard Puckett
-* Lance Hughes
-* Abhi Kolhe
-* Larissa Bemis
-* Wilson Mar
-* Christopher Trudeau
-
-## Team Members
-
 ### Richard Pluckett
 
 ### Lance Hughes
@@ -32,6 +22,7 @@
 
 
 ### Wilson Mar
+<img align="right" alt="wilson mar 200x200" src="https://cloud.githubusercontent.com/assets/300046/12874704/c5a2fbfe-cd8d-11e5-9b7b-1836d6c212d0.jpg">
 Wilson is a Software Design Principal at Concur SAP where he works tuning image storage and retrieval mechanisms using Riak databases.
 Previously, he worked in the Skunkworks division of Lockheed Martin, 
 as part of the team that built the top-secret Stealth Fighter.
