@@ -15,6 +15,8 @@ SUGGESTION: Center align the buttons so drivers on either side can feel comforta
 
 Notice the large size of the buttons (___ x ___ pixels) so they are easy to reach by drivers concentrating on the road.
 
+Notice there are graphic icons within each button so users are not totally reliant on reading and understanding the English words.
+
 0. Hit the Apps button.
 1. Select the ${TeamName} app.
 0. The video shows what the drone sees.
