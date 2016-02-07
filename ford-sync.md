@@ -29,11 +29,13 @@ Plugging in and Android device would shold a Google Now screen customized to the
    <img width="440" alt="ford sync 2016 google now menu" src="https://cloud.githubusercontent.com/assets/300046/12874476/7de0b756-cd89-11e5-95fc-b64e000b8627.png">
 
 
-## Use custom app:
+## Open custom app:
 
 0. Hit the Apps button or press the voice button on the wheel and say voice command "mobile apps".
 1. Scroll to the ${TEAM} app or press the voice button on the wheel and say "Search apps".
 2. Select the  ${TEAM} app (if the app is compatible with the version of the SYNC).
+
+## Use custom app:
 
 1. Hit <strong>Launch</strong> or press the voice button on the wheel and say voice command "launch".
 
