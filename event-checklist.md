@@ -8,8 +8,8 @@ This article contains checklists of who does what when at rehersals and during t
 | Before  | Run diags | all |  P | --------- |
 | Before | Launch | SYNC | P | --------- |
 | In-flight | Launch | SYNC | P | --------- |
-| Break-down | Pack | J | --------- |
-| Break-down | Ship back | J | --------- |
+| Break-down | Pack | all | J | --------- |
+| Break-down | Ship back | all | -J | UPS Acct --------- |
 
 
 ## When
