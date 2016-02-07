@@ -54,7 +54,8 @@ Plugging in and Android device would shold a Google Now screen customized to the
 2. Press the Abort / Return home
 3. To close the app, click the "More ..." button and select Close.
 
-References:
+## References:
+
  * http://blog.caranddriver.com/first-touch-we-sample-fords-sync-3-interface-and-it-doesnt-suck/
  * http://owner.ford.com/how-tos/sync-technology/all/sync-applink/use-voice-commands-to-control-your-smartphone-apps.html
     Voice commands?
