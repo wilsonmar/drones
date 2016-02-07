@@ -30,6 +30,7 @@ Each individual on the team would have success criteria such as:
 
 For the team as a whole would have success criteria such as:
 
+   * Achieving the maximum number of points during the challenge event.
    * A quick way for team members to get each other's attention (Slack channel)
    * An effective mechanism for creating the proposal document and intermediate notes (Github)
    * Team members collaborating effectively
@@ -38,7 +39,7 @@ For the team as a whole would have success criteria such as:
 <a name="Users">
 ## 3. System Users</a>
 
-Those using the system would have success criteria such as:
+Those using the system after the challenge would have success criteria such as:
 
    * Precision in finding survivors
    * Ease of use
@@ -47,6 +48,9 @@ Those using the system would have success criteria such as:
    * Reusability of systems to live subjects (actual survivors)
    * Expandability (to use more drones in the future)
 
+Even though these are largely irrelevant for the purpose of the Challenge,
+the team will keep them in mind because of individual interests in leveraging this work to future projects.
+
 <a name="DJI">
 ## 4. DJI</a>
 
@@ -54,6 +58,7 @@ The company sponsoring the challenge would have these success criteria:
 
    * Increased capability in products
    * Publicity which generates additional sales
+   * Provide a venue for enthusiasts to meet and work with each other.
 
 ### Strengths
 ### Weaknesses
