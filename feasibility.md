@@ -20,10 +20,11 @@ There are several points of view:
 
 Each individual on the team would have success criteria such as:
 
+   * Skill building to leverage on future projects
    * Fun from working with leading-edge equipment
    * Sense of accomplishment overcoming difficulty
    * Fun working with colleagues
-   * Skill building to leverage on future projects
+   * Inclusiveness
 
 <a name="Venture">
 ## 2. Venture</a>
