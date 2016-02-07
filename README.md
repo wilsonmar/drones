@@ -20,3 +20,4 @@ The proposal as requested:
 This repo also contains notes taken while we work:
 
    * ![Android App Notes](android-app-notes.md)
+   * ![Server Notes](server.md)
