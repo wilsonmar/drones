@@ -20,6 +20,8 @@
 
 
 ### Wilson Mar
+<img align="right" alt="webcop-header" src="https://cloud.githubusercontent.com/assets/300046/12871204/e306459a-cd22-11e5-84bc-1f23874e602c.jpg">
+
 Wilson is a Software Design Principal at Concur SAP where he works tuning image storage and retrieval mechanisms using Riak databases.
 Previously, he worked in the Skunkworks division of Lockheed Martin, 
 as part of the team that built the top-secret Stealth Fighter.
