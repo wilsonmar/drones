@@ -1,4 +1,4 @@
-
+Here are notes about the development of the Android app.
 
 ## DJI GO Android app
 0. Install the app on one of your Android smart phones: 
