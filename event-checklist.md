@@ -1,4 +1,4 @@
-This article contains checklists of who does what when at the event.
+This article contains checklists of who does what when at rehersals and during the actual event.
 
 | When | What | Who | Why/Notes |
 | --- | ---- | ---- | --------- |
