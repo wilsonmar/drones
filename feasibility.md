@@ -6,10 +6,11 @@ A feasibility study aims to objectively and rationally uncover strengths, weakne
 This is abbreviated as SWOT.
 In its simplest terms, the two criteria to judge feasibility are <strong>cost</strong> required and <strong>value</strong> to be attained.
 
-There are two points of view:
+There are several points of view:
 
-  * The self-interest of individual team members developing the solution
-  * The venture (team) as a whole developing the solution
+  0. The self-interest of individual team members developing the solution
+  0. The venture (team) as a whole developing the solution
+  0. The organizations involved in search and rescue (users of the system)
 
 ### Strengths
 ### Weaknesses
