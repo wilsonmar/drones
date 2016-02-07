@@ -4,8 +4,8 @@ https://developer.dji.com/challenge2016/
 
 The proposal as requested:
 
-* ![Proposal](proposal.md)
 * ![Team](team.md)
+* ![Proposal (Strategies)](proposal.md)
 * ![Development Plan](development.md)
    * ![Android app](android-app.md)
    * ![Ford SYNC Applink](ford-sync.md)
