@@ -7,7 +7,7 @@ The proposal as requested:
 * ![Team](team.md)
 * [Technical Feasibility Analysis](feasibility.md)
 * ![Proposal (Strategies)](proposal.md)
-* ![Development Plan](development.md)
+* ![Development Plan](development-plan.md)
    * ![Android app](android-app.md)
    * ![Ford SYNC Applink](ford-sync.md)
    * ![Casting video](casting.md)
