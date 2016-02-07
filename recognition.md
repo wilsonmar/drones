@@ -32,7 +32,7 @@ TEST STRATEGY C: Position AprilTags at <strong>different angles</strong>.
 
    * If angles are an issue, the drone would need to fly around more.
 
-TEST STRATEGY D: Try different <strong>telephoto lenses</strong>.
+TEST STRATEGY D: Try different telephoto <strong>lenses</strong>.
 The standard lens is 3.7 mm = 20 mm in 35 mm terms. See video with one: https://www.youtube.com/watch?v=JViCoX57fFU
 
 
@@ -40,11 +40,11 @@ The standard lens is 3.7 mm = 20 mm in 35 mm terms. See video with one: https://
 ## Results</a>
 Runs are planned to obtain numbers at the extremes, so we don't waste our time with experiments for intermediate values.
 
-| Strategy | Light | Feet | Angle | Description | Effectiveness |
-| -------- |-----: |----: | ----: | ----------- | ------------- |
-|        A |  5000 |   10 |     0 | Closest - baseline |  99 |
-|        B |   500 |  400 |     0 | Farthest Extreme low light | 15? |
-|        C |  5000 |   10 |    45 | Extreme angle | 15 |
+| Strategy | Lens | Light | Feet | Angle | Description | Effectiveness |
+| -------- | ---- | ----: |----: | ----: | ----------- | ------------- |
+|        A |  std |  5000 |   10 |     0 | Closest - baseline |  99 |
+|        B |  std |   500 |  400 |     0 | Farthest Extreme low light | 15? |
+|        C |  std |  5000 |   10 |    45 | Extreme angle | 15 |
 
 NOTE: The above are sample values provided for illustrative purposes.
 
