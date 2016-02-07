@@ -1,7 +1,15 @@
-## Team Lead
-### Richard Pluckett
+## Team Members’ Responsibilities & Task Assignments
+* Ford SYNC Touch interface: Richard Puckett
+* Image Recognition ML: Lance Hughes
+* Abhi Kolhe
+* Larissa Bemis
+* Android app (React): Wilson Mar ?
+* Christopher Trudeau
 
 ## Team Members
+
+## Richard Pluckett, Team Lead
+
 
 ### Wilson Mar
 Wilson is a Software Design Principal at Concur SAP where he works tuning image storage and retrieval mechanisms using Riak databases.
