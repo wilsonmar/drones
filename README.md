@@ -17,6 +17,6 @@ The proposal as requested:
 * ![Resources](resources.md)
    * ![DJI SDKs](dji-sdks.md)
 
-This repo also contains notes:
+This repo also contains notes taken while we work:
 
-   * ![Android app](android-app-notes.md)
+   * ![Android App Notes](android-app-notes.md)
