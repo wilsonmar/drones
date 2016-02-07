@@ -12,7 +12,9 @@ The proposal as requested:
    * ![Ford SYNC Applink](ford-sync.md)
    * ![Recognition of AprilTags](recognition.md)
    * ![Navigation](navigation.md)
-* [Development Schedule](schedule.md)
+* Schedules:
+   * [Development Schedule](dev-schedule.md)
+   * [Demo checklist](demo-checklist.md)
 * ![References](references.md)
 
 This repo also contains notes taken while we work:
