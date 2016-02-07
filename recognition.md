@@ -20,12 +20,12 @@ Take a picture of the target at different feet lengths away from the target.
 
 TEST STRATEGY A: Obtain a baseline number at close range with maximum light and flat angle.
 
-   400 feet is the maximum from FAA?
+   * 400 feet is the maximum from FAA?
 
 TEST STRATEGY B: Repeat the test using different <strong>light levels</strong>.
 Numbers are in Lumens.
 
-   QUESTION: When would the drone need an additional light source?
+   * QUESTION: When would the drone need an additional light source?
 
 TEST STRATEGY C: Position AprilTags at <strong>different angles</strong>.
 0 degrees is flat to the camera. 45 is the incline.
