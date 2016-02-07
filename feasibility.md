@@ -43,7 +43,8 @@ Those using the system would have success criteria such as:
    * Precision in finding survivors
    * Ease of use
    * Archival of media created during flights
-   * Reusability of systems
+   * Durability of the system
+   * Reusability of systems to live subjects (actual survivors)
    * Expandability (to use more drones in the future)
 
 <a name="DJI">
