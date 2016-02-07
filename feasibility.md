@@ -12,6 +12,8 @@ There are several points of view:
   0. The venture (team) as a whole developing the solution
   0. The organizations involved in search and rescue (users of the system)
 
+<hr />
+
 <a name="TeamMembers">
 ## 1. Individual Team members</a>
 
