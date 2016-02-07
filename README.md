@@ -1,6 +1,4 @@
-This article contains the proposal and progress notes on using drones from DJI.
-
-https://developer.dji.com/challenge2016/
+<a href="README.md">This article</a> contains the proposal and progress notes on using drones from DJI.
 
 The proposal as requested:
 
@@ -12,6 +10,7 @@ The proposal as requested:
    * ![Android app](android-app.md)
    * ![Casting video](casting.md)
    * ![Ford SYNC Applink](ford-sync.md)
+   * ![Recognition of AprilTags](recognition.md)
    * ![Navigation](navigation.md)
 * [Development Schedule](schedule.md)
 * ![References](resferences.md)
