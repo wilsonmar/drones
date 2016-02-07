@@ -5,11 +5,13 @@ https://developer.dji.com/challenge2016/
 The proposal as requested:
 
 * ![Team](team.md)
+* Technical Feasibility Analysis
 * ![Proposal (Strategies)](proposal.md)
 * ![Development Plan](development.md)
    * ![Android app](android-app.md)
    * ![Ford SYNC Applink](ford-sync.md)
    * ![Casting video](casting.md)
    * ![Navigation](navigation.md)
+* Development Schedule
 * ![Resources](resources.md)
    * ![DJI SDKs](dji-sdks.md)
