@@ -17,9 +17,9 @@ video Introducing the SDK Challenge</a>
 
    Notice there are graphic icons within each button so users are not totally reliant on reading and understanding the English words.
 
-0. Hit the Apps button or say voice command "mobile apps".
+0. Hit the Apps button or press the voice button on the wheel and say voice command "mobile apps".
 1. Scroll to the ${TEAM} app and select it.
-1. Hit <strong>Launch</strong> or say voice command "launch".
+1. Hit <strong>Launch</strong> or press the voice button on the wheel and say voice command "launch".
 
   Launch is not performed if the SYNC detects outside temperatures to be below the minimum or maxiumum temperatures set for the unit.
   
