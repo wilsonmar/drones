@@ -30,8 +30,8 @@
    * DJI emulator
 
 
-## Strategy
-The hardware and software proposed was selected based on the basic strategies of this team is to minimize both:
+## Strategies
+The hardware and software proposed were selected based on the basic strategies of this team is to minimize both:
 
    I. the risk of running into obstacles and
 
