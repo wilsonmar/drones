@@ -30,6 +30,8 @@ Numbers are in Lumens.
 TEST STRATEGY C: Position AprilTags at <strong>different angles</strong>.
 0 degrees is flat to the camera. 45 is the incline.
 
+   * If angles are an issue, the drone would need to fly around more.
+
 TEST STRATEGY D: Try different <strong>telephoto lenses</strong>.
 The standard lens is 3.7 mm = 20 mm in 35 mm terms. See video with one: https://www.youtube.com/watch?v=JViCoX57fFU
 
