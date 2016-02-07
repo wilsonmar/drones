@@ -8,3 +8,8 @@ receive screen video through the same WiFi from the Chromecast app as an Android
 * See https://www.youtube.com/watch?v=7mP7QRtzsnE
 
 This would require no programming.
+
+Alternatives to this include
+
+   * AppleTV
+   * Amazon Firestick
