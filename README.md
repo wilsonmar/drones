@@ -6,12 +6,17 @@ The proposal as requested:
 
 * ![Team](team.md)
 * [Technical Feasibility Analysis](feasibility.md)
-* ![Proposal (Strategies)](proposal.md)
+* ![Proposal (hardware and software components)](proposal.md)
 * ![Development Plan](development-plan.md)
+   * ![Strategies](strategies.md)
    * ![Android app](android-app.md)
-   * ![Ford SYNC Applink](ford-sync.md)
    * ![Casting video](casting.md)
+   * ![Ford SYNC Applink](ford-sync.md)
    * ![Navigation](navigation.md)
 * [Development Schedule](schedule.md)
 * ![Resources](resources.md)
    * ![DJI SDKs](dji-sdks.md)
+
+This repo also contains notes:
+
+   * ![Android app](android-app-notes.md)
