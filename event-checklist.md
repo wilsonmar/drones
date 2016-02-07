@@ -11,7 +11,6 @@ This article contains checklists of who does what when at rehersals and during t
 | Break-down | Pack | all | J | --------- |
 | Break-down | Ship back | all | -J | UPS Acct --------- |
 
-
 ## When
 
    0. Day Before
@@ -22,3 +21,11 @@ This article contains checklists of who does what when at rehersals and during t
    0. Post-flight
    0. Site Break-down
    0. After party
+
+## Who
+
+| Initials | Name | Phone | Notes |
+| -------- | ---- | ----- | ----- |
+| R | - | - | - |
+| W | Wilson Mar | 310.320-7878 | - |
+
