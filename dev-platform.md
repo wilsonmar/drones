@@ -1,7 +1,7 @@
 This describes the development platform, packaged within a 
 VMware Fusion 6 .vmwarevm file:
 
-## Base
+## Windows Base
 
 * Windows 7 Ultimate
 * Java 7.0.79.1 using cinst jdk7 from https://chocolatey.org/packages/jdk7
