@@ -2,7 +2,7 @@ This article are notes on how to make use of DJI's SDKs.
 
 The most handy guide I didn't see mentioned on DJI's website:
 ![A Githbook](https://www.gitbook.com/book/dji-dev/mobile-sdk-tutorials/details).
-providing a tutorial.
+providing a tutorial with Disqus discussion threads (which no one uses).
 
 
 https://developer.dji.com/en/get-started/DJI-SDK-Structure/
