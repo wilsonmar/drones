@@ -1,9 +1,9 @@
-This article reviews DJI's SDKs on Github:
+This article are notes on how to make use of DJI's SDKs.
 
-https://developer.dji.com/challenge2016/
+The most handy guide I didn't see mentioned on DJI's website:
+![A Githbook](https://www.gitbook.com/book/dji-dev/mobile-sdk-tutorials/details).
+providing a tutorial.
 
-* Kevin On – kevin.on@dji.com
-* dev@dji.com
 
 https://developer.dji.com/en/get-started/DJI-SDK-Structure/
 describes the three SDKs working together or independently.
