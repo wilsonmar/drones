@@ -1,8 +1,6 @@
 # Table of Contents
 
-<a href="https://github.com/wilsonmar/drones/blob/master/README.md">This page outlines</a> the proposal and progress notes on using drones from DJI.
-
-The proposal as requested:
+<a href="https://github.com/wilsonmar/drones/blob/master/README.md">This is</a> a submission for the DJI Challenge 2016.
 
 * [Team](https://github.com/wilsonmar/drones/blob/master/team.md)
 * [Technical Feasibility Analysis](https://github.com/wilsonmar/drones/blob/master/feasibility.md)
