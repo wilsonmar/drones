@@ -7,7 +7,7 @@ This article contains checklists of who does what when at rehersals and during t
 | Setup  | Calibrate | drone |  W | --------- |
 | Before  | Run diags | all |  P | --------- |
 | Before | Launch | SYNC | P | --------- |
-| In-flight | Launch | SYNC | P | --------- |
+| In-flight | Monitor | drone | P | --------- |
 | Break-down | Pack | all | J | --------- |
 | Break-down | Ship back | all | -J | UPS Acct --------- |
 
