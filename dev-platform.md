@@ -6,7 +6,7 @@ NOTE: Fusion 8 places emphasis on graphics-intensive virtualization
 
 ## Windows Base
 
-* Windows 7 Ultimate
+* Windows 7 Ultimate SP1
 * Java 7.0.79.1 using cinst jdk7 from https://chocolatey.org/packages/jdk7
   (not jdk-7u79-windows-x64.exe from http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
 * 7z938-x64.msi
