@@ -15,7 +15,7 @@ This article contains checklists of who does what when at rehersals and during t
 <a name="WhoWhatWhen">
 ## Who What When</a>
 
-| When | Action | Item  | <a href="team.md">Who</a> | Why/Notes |
+| <a href="#When">When</a> | Action | Item  | <a href="team.md">Who</a> | Why/Notes |
 | --- | ---- | ---- | ---- | --------- |
 | Before | Update | Checklist | J | --------- |
 | Before | Ship | drone | J | --------- |
