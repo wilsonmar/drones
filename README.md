@@ -1,4 +1,6 @@
-<a href="https://github.com/wilsonmar/drones/blob/master/README.md">This article</a> contains the proposal and progress notes on using drones from DJI.
+# Table of Contents
+
+<a href="https://github.com/wilsonmar/drones/blob/master/README.md">This pagee outlines</a> the proposal and progress notes on using drones from DJI.
 
 The proposal as requested:
 
