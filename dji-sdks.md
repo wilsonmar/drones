@@ -1,8 +1,12 @@
 This article are notes on how to make use of DJI's SDKs.
 
-The most handy guide I didn't see mentioned on DJI's website:
-![A Githbook](https://www.gitbook.com/book/dji-dev/mobile-sdk-tutorials/details).
-providing a tutorial with Disqus discussion threads (which no one uses).
+## Guidebook on Gitbook
+The most handy starting point (I didn't see mentioned on DJI's website) is:
+![A Githbook](https://dji-dev.gitbooks.io/mobile-sdk-tutorials/content/en/)
+providing a tutorial with Disqus discussion threads (which no one seems to be using).
+One of the chapters (Android Camera app) can't be reached, so look at 
+the source for it is at https://github.com/dji-sdk/Mobile-SDK-Tutorial.
+Get a pdf from https://www.gitbook.com/book/dji-dev/mobile-sdk-tutorials/details)
 
 
 https://developer.dji.com/en/get-started/DJI-SDK-Structure/
