@@ -63,6 +63,8 @@ The company sponsoring the challenge would have these success criteria:
    * Publicity which generates additional sales
    * Provide a venue for enthusiasts to meet and work with each other.
 
+<img align="right" width="486" alt="swat analysis" src="https://cloud.githubusercontent.com/assets/300046/12883841/52907754-ce0f-11e5-995b-90c95f927479.png">
+
 ### Strengths
 ### Weaknesses
 ### Opportunities
