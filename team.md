@@ -31,8 +31,6 @@ as part of the team that built the top-secret Stealth Fighter.
 Wilson also worked on the WebCOP (Command Operational Picture) for the US Joint Forces Command.
 The application displayed real-time battle scenarios using maps stored in ESRI geo-mapping database servers.
 
-   * wilsonmar@gmail.com
-   * 310.320-7878
    * http://twitter.com/wilsonmar
    * http://linkedin.com/in/wilsonmar
    * http://pinterest.com/wilsonmar4
