@@ -17,7 +17,7 @@
    * [Event checklist](https://github.com/wilsonmar/drones/blob/master/event-checklist.md)
 * [References](https://github.com/wilsonmar/drones/blob/master/references.md)
 
-This repo also contains notes taken while we work:
+This repo also contains notes taken while we work as a geographically disbursed team:
 
    * [Windows Dev Platform](https://github.com/wilsonmar/drones/blob/master/dev-platform.md)
    * [DJI SDKs](https://github.com/wilsonmar/drones/blob/master/dji-sdks.md)
