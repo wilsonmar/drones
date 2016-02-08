@@ -11,7 +11,8 @@ For repeatability and comparability:
 
 Effectiveness of image recognition is measured in percentage of 100. ???
 
-Design AprilTags of different sizes on a 8.5x11 page.
+Design and print fiducial markers of different sizes on a standard 8.5x11 paper
+(AprilTags).
 Take a picture of the target at different feet lengths away from the target.
 
    * https://april.eecs.umich.edu/wiki/index.php/AprilTags
