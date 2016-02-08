@@ -1,5 +1,8 @@
-This describes the development platform, packaged within a 
-VMware Fusion 6 .vmwarevm file:
+This describes the development platform, packaged within a (large)
+VMware Fusion 8 .vmwarevm bundle.
+
+NOTE: Fusion 8 places emphasis on graphics-intensive virtualization
+(supporting DirectX 10 and OpenGL 3.3). See http://www.networkworld.com/article/3023246/virtualization/review-run-windows-10-on-your-mac-using-vmware-s-fusion-8.html
 
 ## Windows Base
 
@@ -13,10 +16,6 @@ VMware Fusion 6 .vmwarevm file:
 * SourceTreeSetup_1.6.20.exe
 
 <hr />
-
-
-
-After going through registration for Airmap at https://developer.dji.com/
 
 <a name="MobileSDK">
 ## Mobile SDK</a>
@@ -33,9 +32,7 @@ http://developer.dji.com/mobile-sdk/documentation/
 provides docs on classes, protocols, constants generated from code at
 https://github.com/dji-sdk/Mobile-SDK-Android/tree/master/Sample%20Code
 
-But more useful is
-
-* https://developer.dji.com/en/get-started/mobile-sdk/Mobile-SDK-Features/
+But more useful is https://developer.dji.com/en/get-started/mobile-sdk/Mobile-SDK-Features/
 
 Contributors include https://github.com/JonasVautherin
 who also contributed to https://github.com/3drobotics/solodevguide
@@ -60,12 +57,14 @@ into C:\Program Files (x86)\DJISimulator.
 
 <strong>WARNING: Use of Simulator requires the drone but be connected to Windows via USB cable</strong>
 
+### Create an App
+0. Within Android Studio, crate an Android app for the recommended <strong>API version 19</strong>.
+0. Specify a package name such as "com.dji.sdkdemo" in the example or "com.jetbloom.air-ranger".
+0. Get the <strong>package</strong> from within the AndroidManifest.xml' file.
 
-### Android_Mobile_SDK_3.0.1
-To create an Android app 
-0. Get the <strong>package</strong> ("com.dji.sdkdemo") from within
-   AndroidManifest.xml' file.
+### Get and Provide the API Key
+0. Begin registration for Airmap at https://developer.dji.com/
 0. Paste the key when creating the app at http://developer.dji.com/en/user/apps/#all
-1. Open email from DJI with subject "Activate your app" and click the Activation link.
+0. Open email from DJI with subject "Activate your app" and click the Activation link.
 0. Click Save in the pop-up dialog. Click OK on the pop-up.
 0. Copy the 24-digit hexadecimal App Key to your clipboard.
