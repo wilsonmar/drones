@@ -1,6 +1,4 @@
-# Table of Contents
-
-<a href="https://github.com/wilsonmar/drones/blob/master/README.md">This is</a> a submission for the DJI Challenge 2016.
+<a href="https://github.com/wilsonmar/drones/blob/master/README.md">This repo</a> contains our proposal submission for the DJI Challenge 2016.
 
 * [Team](https://github.com/wilsonmar/drones/blob/master/team.md)
 * [Technical Feasibility Analysis](https://github.com/wilsonmar/drones/blob/master/feasibility.md)
