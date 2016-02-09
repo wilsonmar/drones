@@ -71,18 +71,8 @@ iOS development must occur on a Mac.
 ## Prioritized</a>
 Rating by each member of the team, on a distribution of 100 (where the total of each person's column adds up to 100):
 
-| Strategy | Team | A | B | C | D | E|
-| -------- | -- | -- | -- | -- | -- | -- | 
-| A. Prioritized list | __ | __ | __ | __ | __ | 
-| B.  | __ | __ | __ | __ | __ | 
-| C.  | __ | __ | __ | __ | __ | 
-| D.  | __ | __ | __ | __ | __ | 
-| E.  | __ | __ | __ | __ | __ | 
-| F.  | __ | __ | __ | __ | __ | 
-| G.  | __ | __ | __ | __ | __ | 
-| H.  | __ | __ | __ | __ | __ | 
-| I.  | __ | __ | __ | __ | __ | 
-| J.  | __ | __ | __ | __ | __ | 
-| K.  | __ | __ | __ | __ | __ | 
-| L.  | __ | __ | __ | __ | __ | 
-| M.  | __ | __ | __ | __ | __ | 
+| Team |  A |  B |  C |  D |  E | Strategy |
+| ---- | -- | -- | -- | -- | -- | -------- |
+|    ? |  a |  b |  c |  d |  e | A. Prioritized list |
+|    ? |  a |  b |  c |  d |  e | B. |
+
