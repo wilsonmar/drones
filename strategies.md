@@ -66,3 +66,23 @@ STRATEGY L: Develop for Android, not iOS (iPhones and iPads).
 When working with Ford SYNC AppLink, iPhones needs to be plugged into the car with a USB cable.
 But Android can do Bluetooth. DJI currently provides an emulator only for Windows.
 iOS development must occur on a Mac.
+
+<a name="Prioritized">
+## Prioritized</a>
+Rating by each member of the team, on a distribution of 100 (where the total of each person's column adds up to 100):
+
+| Strategy | Team | A | B | C | D | E|
+| -------- | -- | -- | -- | -- | -- | -- | 
+| A. Prioritized list | __ | __ | __ | __ | __ | 
+| B.  | __ | __ | __ | __ | __ | 
+| C.  | __ | __ | __ | __ | __ | 
+| D.  | __ | __ | __ | __ | __ | 
+| E.  | __ | __ | __ | __ | __ | 
+| F.  | __ | __ | __ | __ | __ | 
+| G.  | __ | __ | __ | __ | __ | 
+| H.  | __ | __ | __ | __ | __ | 
+| I.  | __ | __ | __ | __ | __ | 
+| J.  | __ | __ | __ | __ | __ | 
+| K.  | __ | __ | __ | __ | __ | 
+| L.  | __ | __ | __ | __ | __ | 
+| M.  | __ | __ | __ | __ | __ | 
