@@ -1,9 +1,14 @@
+# Development Schedule
+
 This section presents the intended time-line.
 
+Tasks here are defined in the <a href="#development-plan.md">Development plan</a>.
+
+## Phase One
 The Phase One proposal is due at DJI on or before Thursday, March 10, 2016.
 
 <a name="CountDown">
-## Count-down Plan</a>
+### Count-down Plan</a>
 * [A] The internal zero date is 2 days before deadline, to provide 
 * Calendar days are used.
 
@@ -19,3 +24,8 @@ The Phase One proposal is due at DJI on or before Thursday, March 10, 2016.
 
 * [B] Select team name
 * [C] etc. 
+
+
+## Phase Two
+The Phase Two proposal is due at DJI on or before Tuesday, May 3, 2016.
+
