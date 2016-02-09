@@ -1,3 +1,4 @@
+# Development Plan
 <img align="right" alt="agile mvp" src="https://cloud.githubusercontent.com/assets/300046/12909852/f64315f0-ceb9-11e5-8540-0c0046047881.jpg">
 The objective is to create several useful intermediate products over time, each with increasing capability
 (rather than individual components that can't do much unless assembled together at the end):
@@ -14,19 +15,21 @@ C. Server (may be out of scope)</a>
 
 <a name="MobileCapabilities">
 ## A. Mobile phone controlling Phantom 3 drone</a>
-
-   0. Take-off command (from interactive display in the F150
-   0. Abort mission button (to invoke manual piloting).
+The progress of computer control is similar to how a human gradually learns to fly safely -- gradually taking more risk of damaging equipment as skills increase.
 
    0. Display video from drone on mobile app screen.
    0. Chromecast or iOS AirPlay Mirroring for App broadcast to a Google stick on HDMI of TV.
-   0. Stream video to cloud web server for analysis and archival.
    0. Streaming live footage to the F150 (800x384 pixels every 4 seconds).
-   
+   0. Stream video to cloud web server for analysis and archival. [OUT OF SCOPE]
    0. GPS coordinates input (in a local file to start, max altitude for failsafe)
-   0. RTH (Return to home) button
-   1. Display mission log
-   1. Display missions history
+
+   0. Simulator display actual mission log, etc.
+   0. Simulator store coordinates with keywords.
+
+   0. Take-off command (from interactive display in the F150
+   0. Abort mission button (to invoke manual piloting) immediately.
+   0. RTH (Return to home) button after short missions.
+   0. Really store coordinates with keywords.
 
 <a name="DroneCapabilities">
 ## B. Image recognition and route planning/prioritization</a>
