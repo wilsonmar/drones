@@ -7,7 +7,7 @@
 | R | Richard Puckett | 425.590.5625 | Team Lead, Ford SYNC Touch interface |
 | W | <a href="email:WilsonMar@gmail.com">WilsonMar@gmail.com</a> | 310.320-7878 | Android app, Calibration |
 | L | Lance Hughes | - | Image Recognition Machine Learning |
-| A | Abhijeet Kolhe <a href="email:WilsonMar@gmail.com">abhijeet.kolhe@gmail.com</a> | 213-321-2503 | Drone tracking & object recognition algorithms, ML |
+| A | Abhijeet Kolhe <a href="email:WilsonMar@gmail.com">abhijeet.kolhe@gmail.com</a> | 213.321.2503 | Drone tracking & object recognition algorithms, ML |
 | C | Christopher Trudeau | 425.590.5289 | ? |
 
 ### Richard Pluckett
