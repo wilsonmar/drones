@@ -45,4 +45,8 @@ Waypoints cannot be set within 8 km of safety zones.
 
 The default height limit is 1300 feet with a GPS signal or 398 feet without a GPS signal.
 
+* https://developer.dji.com/showcase/hivemapper/
+  HiveMapper.com is creating a 3D map of the world containing no-fly zones
+  by allowing others to update their database.
+
 For questions, email flysafe@dji.com
