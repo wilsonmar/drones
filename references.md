@@ -27,7 +27,7 @@ QUESTION: How is the 50 x 50m delimited? With GPS coordinates but also recogniza
 
 QUESTION: How is the home base for the drone delimited?
 
-QUESTION: For the challenge, are we limited to the example scenario in the rules doc? What type of terrain should the search and rescue be involved in/limited to? e.g. If we restrict the drones in no-fly zones, it is not permitted for search and rescue in those areas?
+QUESTION: For the challenge, are we limited to the example scenario in the rules doc? What type of terrain should the search and rescue be involved in/limited to? e.g. If we restrict the drones in no-fly zones, is it not permitted for search and rescue in those areas?
 
 QUESTION: (Possibly answered somwhere?) Is the route of the target/home vehicle determinate? Are there any objects moving within the rescue zone? Are the survivors stationary?
 
