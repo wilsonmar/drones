@@ -58,14 +58,10 @@ into C:\Program Files (x86)\DJISimulator.
   except call-outs of flight data is transmitted to the PC through the UDP port 5566.
   The PC can interpret this data to create a virtual 3D environment for analysis.
 
-<strong>WARNING: Use of Simulator requires the drone but be connected to Windows via USB cable</strong>
+<strong>WARNING: Use of Simulator requires the drone be connected to Windows via USB cable</strong>
 
 ### Open Android Studio
 Since Android Studio doesn't install desktop icons by default:
-
-WARNING: As of this writing, DJI documentation
-recommends using Eclipse and later convert to Studio.
-This tutorial takes it to the next step.
 
 0. Use Windows File Explorer to navigate to Androind Studio which installed to
 
@@ -77,18 +73,78 @@ This tutorial takes it to the next step.
 
    Notice the program is now based on IntelliJ rather than Eclipse.
 
-### Decide on Names.
+   WARNING: As of this writing, DJI documentation
+   recommends using Eclipse and later convert to Studio.
+   This tutorial takes it to the next step.
+
+0. PROTIP: To open Android Studio quickly, right-click on the Desktop
+   to create a new Shortcut to:
+
+   ```
+C:\Program Files\Android\Android Studio\bin\studio64.exe
+   ```
+
+   Name it "AndroidStudio" or whatever you like.
+
+
+### Decide on Names
 These are harder and more time consuming than people think they should be.
 
-   * App name.
+   * App name: for example, "drone-android-app".
+   * Project folder name and path. In a git repo folder? 
    * Company name.
    * Project location. Will a sub-domain be created?
    * Package name such as "com.dji.sdkdemo" in the example or "com.jetbloom.air-ranger".
 
-### Start new Android Project
-0. Within Android Studio, Start a New Android app with the info above.
-0. For the recommended <strong>API version 19</strong> (Android 4.4 KitKat).
-0. Add no Activity. Click Finish.
+
+### Read Reference Documentation
+There are two places to read the docs for this:
+
+* https://dji-dev.gitbooks.io/mobile-sdk-tutorials/content/en/Android/FPVDemo/FPVDemo_en.html
+  seems to be older than:
+
+* https://github.com/DJI-Mobile-SDK/Android-FPVDemo
+  README.md
+
+
+### Start New Android Project
+Android Studio has a default location at the top of your User folder.
+
+PROTIP: Use a folder for your project that is version controlled.
+
+   https://github.com/wilsonmar/drone-android-app
+
+0. Create in Github a new repo and clone it in a folder.
+   As is customary with github, the folder would contain README.md
+   and LICENSE.md files.
+
+0. Open an internet browser and download a zip of the repo's master branch:
+
+   https://github.com/DJI-Mobile-SDK/Android-FPVDemo
+
+   NOTE: No need to clone it because we will not change it.
+
+0. Unzip it.
+0. Delete the images folder and README.md files because you can view them online.
+0. Copy the FPV-Demo folder to your clipboard.
+0. Using File Explorer, drill to the folder containing the sample app.
+0. Copy the sample app source to your app's folder.
+0. Within Android Studio, Start a New Android app based on the decisions above.
+0. Provide the version-controlled file path created above.
+0. PROTIP: If there is white space within a portion of the folder, find its 8-character equivalent:
+   open a Command Window, navigate to the folder such as C:\Users. Use command:
+
+   ```
+   dir /X
+   ```
+
+   Copy the 8-character name, such as "WILSON~1" for "Wilson Mar".
+
+0. In the Project location, replace the long name with the short name in your clipboard.
+0. Click Next. (assumed in steps to follow)
+0. Check Phone and Tablet. 
+0. For Minimum SDK, select DJI-recommended <strong>API version 19: Android 4.4 (KitKat)</strong>.
+0. Select "Add No Activity". Click Finish.
 0. Specify a package name such as "com.dji.sdkdemo" in the example or "com.jetbloom.air-ranger".
 0. Get the <strong>package</strong> from within the AndroidManifest.xml' file.
 0. Go to File -> New -> Import Module. 

@@ -1,4 +1,5 @@
-The objective is to create several stages of product that increase in useful capability over time 
+<img align="right" alt="agile mvp" src="https://cloud.githubusercontent.com/assets/300046/12909852/f64315f0-ceb9-11e5-8540-0c0046047881.jpg">
+The objective is to create several useful intermediate products over time, each with increasing capability
 (rather than individual components that can't do much unless assembled together at the end):
 
 <a href="#MobileCapabilities">
