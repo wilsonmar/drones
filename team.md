@@ -21,7 +21,7 @@ Richard is a Senior Manager at Concur Labs.
 
 ### Lance Hughes
 
-### Abhi Kolhe
+### Abhijeet Kolhe
 Abhijeet is a Software Design Engineer at Tripit unit, working on different search and information extraction algorithms & distributed systems
 
 https://www.linkedin.com/in/abhijeet-kolhe-84763710
