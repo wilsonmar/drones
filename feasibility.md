@@ -76,6 +76,9 @@ The company sponsoring the challenge would have these success criteria:
 ### Opportunities
 
 ### Threats
-Several apps have already been created to stream the live video feed, control the camera, take snapshots, record video, change location mid-flight, return the drone and land it at a designated spot:
+Several apps have already been created to stream the live video feed, control the camera, take snapshots, record video, change location mid-flight, return the drone and land it at a designated spot, etc.:
 
 * https://developer.dji.com/showcase/ugcs/ includes a 3D mission planning enviornment.
+
+* https://play.google.com/store/apps/details?id=com.hivemapper.android.hivemapper
+

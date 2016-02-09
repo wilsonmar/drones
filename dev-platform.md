@@ -155,8 +155,15 @@ PROTIP: Use a folder for your project that is version controlled.
 0. Press Alt+1 or View | Tool Windows | Project.
 0. Expand your project by clicking the arrow to the left of your project name.
 
-0. Run your app. 
-0. Launch Emulator. The default "Nexus 5 API 23 x86".
+### Run Check
+0. PROTIP: If you are running within VMWare or other hypervisor,
+   connect a physical smartphone because emulators will not work.
+   Skip to the next section.
+
+   * https://developer.xamarin.com/guides/android/getting_started/installation/accelerating_android_emulators/
+
+0. If you are running outside an emulator,
+   launch Emulator. The default "Nexus 5 API 23 x86".
 
    PROTIP: Select an Android virtual device that you also physically use.
 
@@ -169,9 +176,14 @@ PROTIP: Use a folder for your project that is version controlled.
 
 0. Go to https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
 0. Download haxm-windows_v6_0_1.zip (6.0.1) and unzip.
+0. Open a command window to run haxm_check.exe. The expected response:
+
+   ```
+   VT support -- yes
+   NX support -- yes
+   ```
+
 0. Invoke intelhaxm-android.exe.
-
-
 
 0. To download an SDK file, in Android Studio: File | New | Import Module
    and specify the path.
@@ -183,6 +195,9 @@ Windows: \Users\%USERNAME%\AppData\Local\Android\android-studio\sdk\
 Mac: /Applications/Android\ Studio.app/sdk/
 Linux: /usr/share/android-studio/data/sdk
    ```
+
+0. Run your app. 
+
 
 ### Get and Provide the API Key
 0. Begin registration for Airmap at https://developer.dji.com/ by providing values from
