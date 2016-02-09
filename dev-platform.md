@@ -173,7 +173,10 @@ PROTIP: Use a folder for your project that is version controlled.
 
 
 
-   Android SDKs are stored in:
+0. To download an SDK file, in Android Studio: File | New | Import Module
+   and specify the path.
+
+   Android SDK files are stored locally at:
 
    ```
 Windows: \Users\%USERNAME%\AppData\Local\Android\android-studio\sdk\

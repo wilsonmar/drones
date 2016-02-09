@@ -68,3 +68,16 @@ But Android can do Bluetooth. DJI currently provides an emulator only for Window
 iOS development must occur on a Mac.
 
 STRATEGY M: Make use of several sources of location and target information (from IR, on-board logic, remote server, etc.), selecting the optimal one.
+
+<hr />
+
+<a name="Priorities">
+## Priorities</a>
+Rating by each member of the team, 
+each distributing 100 (where the total of each person's column adds up to 100):
+
+| Team |  A |  B |  C |  D |  E | Strategy |
+| ---- | -- | -- | -- | -- | -- | -------- |
+|    ? |  a |  b |  c |  d |  e | A. Prioritized list |
+|    ? |  a |  b |  c |  d |  e | B. |
+
