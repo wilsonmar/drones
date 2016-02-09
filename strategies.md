@@ -73,4 +73,3 @@ Rating by each member of the team, on a distribution of 100 (where the total of 
 
 | Team |  A |  B |  C |  D |  E | Strategy |
 | ---- | -- | -- | -- | -- | -- | -------- |
-
