@@ -59,10 +59,12 @@ hoping that the better granularity closer to objects may improve image recogniti
 
 STRATEGY J: Pictures are used by the server to construct a <strong>3D model</strong> of the terrain and obstacles.
 
-STRATEGY K: Before each flight, the drone's altimeter and other sensors are calibrated to ensure accuracy
-needed to better compare data across different days and drone units.
+STRATEGY K: Before each flight, the drone's altimeter and other <strong>sensors are calibrated</strong> to ensure the precision 
+needed (to better compare data across different days and drone units).
 
 STRATEGY L: Develop for Android, not iOS (iPhones and iPads).
 When working with Ford SYNC AppLink, iPhones needs to be plugged into the car with a USB cable.
 But Android can do Bluetooth. DJI currently provides an emulator only for Windows.
 iOS development must occur on a Mac.
+
+STRATEGY M: Make use of several sources of location and target information (from IR, on-board logic, remote server, etc.), selecting the optimal one.

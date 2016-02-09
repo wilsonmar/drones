@@ -67,6 +67,15 @@ The company sponsoring the challenge would have these success criteria:
 <img align="right" width="486" alt="swat analysis" src="https://cloud.githubusercontent.com/assets/300046/12883841/52907754-ce0f-11e5-995b-90c95f927479.png"></a>
 
 ### Strengths
+* Experience
+
 ### Weaknesses
+* Funding
+* Lack of experience with new some new software
+
 ### Opportunities
+
 ### Threats
+Several apps have already been created to stream the live video feed, control the camera, take snapshots, record video, change location mid-flight, return the drone and land it at a designated spot:
+
+* https://developer.dji.com/showcase/ugcs/ includes a 3D mission planning enviornment.

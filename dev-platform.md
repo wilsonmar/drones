@@ -87,7 +87,8 @@ C:\Program Files\Android\Android Studio\bin\studio64.exe
    Name it "AndroidStudio" or whatever you like.
 
 
-### Decide on Names
+<a name="Decisions">
+### Decide on Names</a>
 These are harder and more time consuming than people think they should be.
 
    * App name: for example, "drone-android-app".
@@ -145,14 +146,44 @@ PROTIP: Use a folder for your project that is version controlled.
 0. Check Phone and Tablet. 
 0. For Minimum SDK, select DJI-recommended <strong>API version 19: Android 4.4 (KitKat)</strong>.
 0. Select "Add No Activity". Click Finish.
+
 0. Specify a package name such as "com.dji.sdkdemo" in the example or "com.jetbloom.air-ranger".
 0. Get the <strong>package</strong> from within the AndroidManifest.xml' file.
 0. Go to File -> New -> Import Module. 
 0. In the 'Source Directory' field, find the DJI-SDK-LIB folder location (Android Studio\DJI-SDK-Android-V2.1.0\Lib\DJI-SDK-LIB). 
 0. Press Finish.
+0. Press Alt+1 or View | Tool Windows | Project.
+0. Expand your project by clicking the arrow to the left of your project name.
+
+0. Run your app. 
+0. Launch Emulator. The default "Nexus 5 API 23 x86".
+
+   PROTIP: Select an Android virtual device that you also physically use.
+
+0. Check Use same device for future launches.
+0. Click the green arrow to initiate. If this message appears:
+
+   [avd launch error haxm kern module not installed](https://cloud.githubusercontent.com/assets/300046/12910832/d6c6a940-cec2-11e5-94b6-dc6fad3ca4e1.png)
+
+   (where HAXM = Hardware Accelerated eXecution Manager)
+
+0. Go to https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
+0. Download haxm-windows_v6_0_1.zip (6.0.1) and unzip.
+0. Invoke intelhaxm-android.exe.
+
+
+
+   Android SDKs are stored in:
+
+   ```
+Windows: \Users\%USERNAME%\AppData\Local\Android\android-studio\sdk\
+Mac: /Applications/Android\ Studio.app/sdk/
+Linux: /usr/share/android-studio/data/sdk
+   ```
 
 ### Get and Provide the API Key
-0. Begin registration for Airmap at https://developer.dji.com/
+0. Begin registration for Airmap at https://developer.dji.com/ by providing values from
+   <a href="#Decisions">decision</a>.
 0. Paste the key when creating the app at http://developer.dji.com/en/user/apps/#all
 0. Open email from DJI with subject "Activate your app" and click the Activation link.
 0. Click Save in the pop-up dialog. Click OK on the pop-up.

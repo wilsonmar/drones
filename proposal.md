@@ -1,5 +1,8 @@
 # Proposal
 
+<img alt="drone communications map" src="https://cloud.githubusercontent.com/assets/300046/12911501/cc32f0ba-cec7-11e5-9a97-f1f945ffe1ce.png">
+Photo credit: https://developer.dji.com/showcase/ugcs/
+
 ## Physical (Hardware) Components:
 * F150 flatbed truck to transport the drone (operated by DJI personnel)
 * SYNC hardware compatible with Samsung smartphone (Galexy SIII).
@@ -20,7 +23,11 @@
 * Battery chargers
 * Replacements for damage (propellers, etc.)
 * Example AprilTags for objects and vehicle
-* Tools to repair units.
+* Tools to repair units
+* Light meter
+* Portable lights for crew to work
+* Video camera with microphone to record event
+* Tripod for camera
 
 ## Software Components
 * DJI’s Mobile SDK for iOS and Android, 
