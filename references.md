@@ -27,6 +27,9 @@ QUESTION: How is the 50 x 50m delimited? With GPS coordinates but also recogniza
 
 QUESTION: How is the home base for the drone delimited?
 
+QUESTION: For the challenge, are we limited to the example scenario in the rules doc? What type of terrain should the search and rescue be involved in/limited to? e.g. If we restrict the drones in no-fly zones, it is not permitted for search and rescue in those areas?
+
+
 ![drone-on-truck](https://cloud.githubusercontent.com/assets/300046/12867256/81a776a0-cc9d-11e5-9a44-43f086b546c1.png)
 Photo from <a target="_blank" href="https://www.youtube.com/watch?v=_kXoUsqzzMU">
 video Introducing the SDK Challenge</a>
