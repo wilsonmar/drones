@@ -1,12 +1,15 @@
+## Development Enviornment
+
 This describes the development platform, packaged within a (large)
-VMware Fusion 8 .vmwarevm bundle.
+VMware Fusion 8 .vmwarevm bundle (WIN-HIJA4A33DRG) with 3.37 GB RAM running within a 2.49 GHz Mac OSX Yosemite.
 
 NOTE: Fusion 8 places emphasis on graphics-intensive virtualization
 (supporting DirectX 10 and OpenGL 3.3). See http://www.networkworld.com/article/3023246/virtualization/review-run-windows-10-on-your-mac-using-vmware-s-fusion-8.html
 
-## Windows Base
+## Windows 7 Base Utilities
 
 * Windows 7 Ultimate SP1
+* Chocolatey
 * Java 7.0.79.1 using cinst jdk7 from https://chocolatey.org/packages/jdk7
   (not jdk-7u79-windows-x64.exe from http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
 * 7z938-x64.msi
@@ -57,10 +60,40 @@ into C:\Program Files (x86)\DJISimulator.
 
 <strong>WARNING: Use of Simulator requires the drone but be connected to Windows via USB cable</strong>
 
-### Create an App
-0. Within Android Studio, crate an Android app for the recommended <strong>API version 19</strong>.
+### Open Android Studio
+Since Android Studio doesn't install desktop icons by default:
+
+WARNING: As of this writing, DJI documentation
+recommends using Eclipse and later convert to Studio.
+This tutorial takes it to the next step.
+
+0. Use Windows File Explorer to navigate to Androind Studio which installed to
+
+   ```
+   C:\Program Files\Android\Android Studio\bin
+   ```
+
+0. Invoke <strong>studio64.exe</strong>.
+
+   Notice the program is now based on IntelliJ rather than Eclipse.
+
+### Decide on Names.
+These are harder and more time consuming than people think they should be.
+
+   * App name.
+   * Company name.
+   * Project location. Will a sub-domain be created?
+   * Package name such as "com.dji.sdkdemo" in the example or "com.jetbloom.air-ranger".
+
+### Start new Android Project
+0. Within Android Studio, Start a New Android app with the info above.
+0. For the recommended <strong>API version 19</strong> (Android 4.4 KitKat).
+0. Add no Activity. Click Finish.
 0. Specify a package name such as "com.dji.sdkdemo" in the example or "com.jetbloom.air-ranger".
 0. Get the <strong>package</strong> from within the AndroidManifest.xml' file.
+0. Go to File -> New -> Import Module. 
+0. In the 'Source Directory' field, find the DJI-SDK-LIB folder location (Android Studio\DJI-SDK-Android-V2.1.0\Lib\DJI-SDK-LIB). 
+0. Press Finish.
 
 ### Get and Provide the API Key
 0. Begin registration for Airmap at https://developer.dji.com/
@@ -68,3 +101,6 @@ into C:\Program Files (x86)\DJISimulator.
 0. Open email from DJI with subject "Activate your app" and click the Activation link.
 0. Click Save in the pop-up dialog. Click OK on the pop-up.
 0. Copy the 24-digit hexadecimal App Key to your clipboard.
+
+### Android app views
+https://github.com/PhilJay/MPAndroidChart - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
