@@ -5,7 +5,7 @@
 | <a href="https://github.com/wilsonmar/drones/blob/master/event-checklist.md">Initials</a> | Name/Email | Phone | Notes |
 | -------- | ---------- | ----- | ----- |
 | R | Richard Puckett | 425.590.5625 | Team Lead, Ford SYNC Touch interface |
-| W | <a href="email:WilsonMar@gmail.com">WilsonMar@gmail.com</a> | 310.320-7878 | Android app, Calibration |
+| W | <a href="email:WilsonMar@gmail.com">WilsonMar@gmail.com</a> | 310.320-7878 | Git, Android app, Calibration |
 | L | Lance Hughes | - | Image Recognition Machine Learning |
 | A | Abhi Kolhe | - | ? |
 | C | Christopher Trudeau | 425.590.5289 | ? |
