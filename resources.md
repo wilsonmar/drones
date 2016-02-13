@@ -1,8 +1,16 @@
-This article describes references for the project.
+This page provides references for the project.
 
-* Kevin On – kevin.on@dji.com
-* dev@dji.com
+Companies in the arial
 
+## DJI
 
+ * Kevin On – kevin.on@dji.com
+ * dev@dji.com
+
+## Cyphyworks
+http://cyphyworks.com/ in Danvers, Massachusetts (north of Boston)
+from those who created iRobot vaccuum cleaners.
+
+## Others
 Real search and rescue people to provide perspective?
 

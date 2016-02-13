@@ -38,9 +38,8 @@ Chris won the $10K AT&T M2X and Wunderbar category in AT&T Hackathon 2015 with h
 <img align="right" alt="wilson mar 200x200" width="174"  src="https://cloud.githubusercontent.com/assets/300046/12874704/c5a2fbfe-cd8d-11e5-9b7b-1836d6c212d0.jpg">
 Wilson is a Software Design Principal at Concur SAP where he works tuning image storage and retrieval mechanisms using Riak databases. 
 Previously, he worked in the Skunkworks division of Lockheed Martin, 
-as part of the team that built the top-secret Stealth Fighter.
-Wilson also worked on the WebCOP (Command Operational Picture) for the US Joint Forces Command.
-The application displayed real-time battle scenarios using maps stored in ESRI geo-mapping database servers. Wilson's team won the Microsoft Mobile Hackathon at CES Modev 2014.
+as part of the team that built and manufactured top-secret Stealth Fighters.
+Wilson also worked on the WebCOP (Command Operational Picture) for the US Joint Forces Command. The app displayed real-time battle scenarios using maps stored in ESRI geo-mapping database servers. Wilson's team won the Microsoft Mobile Hackathon at CES Modev 2014.
 
    * http://twitter.com/wilsonmar
    * http://linkedin.com/in/wilsonmar
