@@ -13,3 +13,7 @@ Alternatives to this include
 
    * AppleTV
    * Amazon Firestick
+
+QUESTION: Can the <a target="_blank" href="http://fatshark.com/">fatshark</a> VR headset steal or share signals going to the Google Chromcast / Amazon / Apple TV.
+
+<img width="207" alt="vr fatshark headset" src="https://cloud.githubusercontent.com/assets/300046/13028244/a96dbd1e-d226-11e5-8a30-65fe0d10326f.png">

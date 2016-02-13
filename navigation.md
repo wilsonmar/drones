@@ -55,6 +55,8 @@ Conversion of tag coordinates to absolute positions requires <strong>calibration
 
 <a name="TargetID">
 ## 3D Target Identification</a>
+![apriltag localization boxes](https://cloud.githubusercontent.com/assets/300046/13028142/72274224-d223-11e5-89f9-de86b8b15deb.png)
+
 As a proxy for people and animals which are the ultimate target for the eventual objective after this challenge, AprilTags two-dimensional bar codes are used to compute 3D positions with respect to the camera.
 
 <img alt="AprilTagsampler.png"  src="https://cloud.githubusercontent.com/assets/300046/13027844/927665ee-d21b-11e5-8a07-b79654ca3886.png">
@@ -83,7 +85,7 @@ https://en.wikipedia.org/wiki/Netpbm_format
  
 <a name="RTH">
 ## Return To Home</a>
-OBJECTIVE: Be able to back-track route without GPS
+OBJECTIVE: <strong>Back-track route</strong>. Be able to back-track route without GPS
 by remembering obstacles encountered and plotting a direct course around them back to origin.
 
 <a name="Landing">
