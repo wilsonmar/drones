@@ -63,3 +63,8 @@ Plugging in and Android device would shold a Google Now screen customized to the
  * https://developer.ford.com/pages/applink/
  * https://developer.ford.com/pages/ale (AppLink™Emulator) software emulator
  * https://www.youtube.com/watch?v=n9zorApPNy0  Ford Sync AppLink Android Demo - Playing Online Audio
+
+
+<a target="_blank" href="http://livestream.com/concur/events/4784185"><img width="470" alt="ford hackathon winners 2015" src="https://cloud.githubusercontent.com/assets/300046/13028289/4b41592e-d228-11e5-9642-17b6beebe033.png"></a>
+NOTE: Richard Puckett's team won the Ford SYNC Challenge 2015.
+Picture is [3:30] into the video on ConcurLabs.com.

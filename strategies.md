@@ -1,3 +1,5 @@
+<a target="_blank" href="http://www.army-technology.com/products/webcop/"><img align="right" alt="webcop-header" src="https://cloud.githubusercontent.com/assets/300046/12871204/e306459a-cd22-11e5-84bc-1f23874e602c.jpg"></a>
+
 The hardware and software proposed were selected based on the basic strategies of this team is to minimize:
 
    I. the risk of running into obstacles;

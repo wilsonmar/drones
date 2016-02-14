@@ -56,6 +56,10 @@ The end result is this:
    * Clear <strong>Capture</strong> button turns to red for "Stop capturing" when pressed.
    * Clear <strong>Record</strong> button turns to red and "Stop recording" when pressed.
 
+   Ancillary buttons [OFF TOPIC]:
+   
+   * Activate an Arduino/Raspberry shield on board which then actuates a mechanism to release a package (ala Amazon drone).
+
 0. Other screens (tabs):
 
    * <strong>Missions</strong> list (current, auto archive to server, auto delete from phone, retrieve from server)
