@@ -1,13 +1,22 @@
 # References
 
+<a name="Glossary">
+## Glossary</a>
+
+"Drones" are a nickname for UAVs (Unmanned Arial Vehicles).
+
+
 ## DJI
 <a target="_blank" href="http://www.dji.com/">DJI</a>
 has great image stabilization and ease-of-flying technologies.
 
-* http://www.facebook.com/DJIGlobal  
-* http://www.twitter.com/DJIGlobal  
-* http://www.youtube.com/DJI
+ * http://www.facebook.com/DJIGlobal  
+ * http://www.twitter.com/DJIGlobal  
+ * http://www.youtube.com/DJI
 
+Eric Cheng is Director of Imaging at DJI
+
+   * https://www.youtube.com/watch?v=wFo21xrFGr0
 
 ## The DJI Challenge
 https://developer.dji.com/challenge2016/
@@ -19,11 +28,6 @@ https://dl.djicdn.com/downloads/dev/DevChallenge2016/2016%20DJI%20Developer%20Ch
 QUESTION: (Possibly answered somwhere?) Is the route of the target/home vehicle determinate? Are there any objects moving within the rescue zone? Are the survivors stationary?
 
 [36:25] into Richard's Lunch n Learn talk.
-
-<a name="Glossary">
-## Glossary</a>
-
-"Drones" are a nickname for UAVs (Unmanned Arial Vehicles).
 
 <a name="NoDroneZone">
 ## No-fly Zones</a>

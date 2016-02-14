@@ -1,6 +1,6 @@
 <img width="687" alt="reaching for the sky in field" src="https://cloud.githubusercontent.com/assets/300046/13034360/7f5808b6-d2f0-11e5-9b5f-30e0d96b2391.png">
 
-<a href="https://github.com/wilsonmar/drones/blob/master/README.md">This repo</a> contains our proposal submission for the DJI Challenge 2016.
+<a href="https://github.com/wilsonmar/drones/blob/master/README.md">This repo/document</a> contains our proposal submission for the <a target="_blank" href="https://developer.dji.com/challenge2016/">DJI Challenge 2016</a>.
 
 * [Team](https://github.com/wilsonmar/drones/blob/master/team.md)
 * [Technical Feasibility Analysis](https://github.com/wilsonmar/drones/blob/master/feasibility.md)

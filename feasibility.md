@@ -1,8 +1,8 @@
 This section studies the feasibility of the proposal.
 
-
 ![project feasibility sample](https://cloud.githubusercontent.com/assets/300046/13034288/d0b91fbc-d2ee-11e5-974b-7cd406dedd5e.png)
 
+TODO: Update the sample above with criteria and ratings relevant to this project.
 
 According to https://en.wikipedia.org/wiki/Feasibility_study
 a feasibility study evaluates the project's potential for success.

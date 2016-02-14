@@ -63,7 +63,14 @@ STRATEGY: Augment with assist from a central server?
 
 QUESTION: For the challenge, are we limited to the example scenario in the rules doc? What type of terrain should the search and rescue be involved in/limited to? e.g. If we restrict the drones in no-fly zones, is it not permitted for search and rescue in those areas?
 
-The M100 has an on-board <strong>collision avoidance</strong> capability.
+The M100 has an on-board <strong>collision avoidance</strong> capability
+as close as 1 cm through its ultrasonic sensors and stereo gray-scale cameras.
+
+   * <a target="_blank" href="https://www.youtube.com/watch?v=wFo21xrFGr0">
+     VIDEO: DJI M100 with Collision Avoidance System</a>
+
+SOFTWARE: This works via DJI's software named <strong>Guidance</strong>
+SDK.
 
 STRATEGY: The vehicle "probes" by incrementally first looking at the ground, then the walls, and finally the ceiling (for Spiderman).
 
