@@ -20,7 +20,16 @@ QUESTION: (Possibly answered somwhere?) Is the route of the target/home vehicle 
 
 [36:25] into Richard's Lunch n Learn talk.
 
-## No-fly Zones
+<a name="Glossary">
+## Glossary</a>
+
+"Drones" are a nickname for UAVs (Unmanned Arial Vehicles).
+
+<a name="NoDroneZone">
+## No-fly Zones</a>
+
+<a target="_blank" href="http://www.eetimes.com/document.asp?doc_id=1327384">
+<img align="right" alt="no-drone-zone" width="150" src="https://cloud.githubusercontent.com/assets/300046/13034471/697b87e0-d2f3-11e5-8833-151b1e911761.png"></a>
 
 Drones are programmed by DJI to not take off near safety zones within:
 
