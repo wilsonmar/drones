@@ -1,7 +1,6 @@
 # Proposal
 
-<img alt="drone communications map" src="https://cloud.githubusercontent.com/assets/300046/12911501/cc32f0ba-cec7-11e5-9a97-f1f945ffe1ce.png">
-Photo credit: https://developer.dji.com/showcase/ugcs/
+<img src="images/drone-system-v02.png">
 
 ## Physical (Hardware) Components:
 * F150 flatbed truck to transport the drone (operated by DJI personnel)
@@ -36,3 +35,5 @@ Photo credit: https://developer.dji.com/showcase/ugcs/
    * Ford API Library and Emulator
    * DJI emulator
 
+<img alt="drone communications map" src="https://cloud.githubusercontent.com/assets/300046/12911501/cc32f0ba-cec7-11e5-9a97-f1f945ffe1ce.png">
+Photo credit: https://developer.dji.com/showcase/ugcs/
