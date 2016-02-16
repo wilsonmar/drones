@@ -83,4 +83,6 @@ Several apps have already been created to stream the live video feed, control th
 * https://developer.dji.com/showcase/ugcs/ includes a 3D mission planning enviornment.
 
 * https://play.google.com/store/apps/details?id=com.hivemapper.android.hivemapper
+* http://www.fp7-icarus.eu/links Unmanned Search and Rescue
+
 
