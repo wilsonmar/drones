@@ -6,11 +6,14 @@ The objective is to create several useful intermediate products over time, each 
 <a href="#MobileCapabilities">
 A. Mobile phone controlling Phantom 3 drone</a>
 
-<a href="#DroneCapabilities">
+<a href="#ImageRecognition">
 B. Image recognition and route planning/prioritization</a>
 
+<a href="#RoutePlanning">
+C. Route planning/prioritization</a>
+
 <a href="#ServerCapabilities">
-C. Server (may be out of scope)</a>
+D. Server (may be out of scope)</a>
 
 
 <a name="MobileCapabilities">
@@ -31,21 +34,28 @@ The progress of computer control is similar to how a human gradually learns to f
    0. RTH (Return to home) button after short missions.
    0. Really store coordinates with keywords.
 
-<a name="DroneCapabilities">
+<a name="ImageRecognition">
 ## B. Image recognition and route planning/prioritization</a>
 
    0. AprilTag software on a Mac identity the position of AprilTag and dervive a value from image.
    0. Drone derive a value from AprilTag (http://people.csail.mit.edu/kaess/apriltags/)
    0. Identify <strong>GPS coordinates</strong> from a picture containing the recognized AprilTag
 
+<a name="RoutePlanning">
+## C. Route planning/prioritization</a>
+
+   0. Coordinates to on-board computer for short mission.
+   0. Initial take-off.
+   1. Abort landing from smartphone controller.
+   0. Return to home (RTH) around known objects.
+
    0. Plot a straight course to the survivor coordinates (avoiding obstacles).
    0. Avoid obstacles (wind, go around ) in plotted course.
-   0. Return to home (RTH) around known objects.
    0. Prioritize among several targets (for the quickest route).
    0. Landing on a moving vehicle
 
 <a name="ServerCapabilities">
-## C. Server (out of scope)</a>
+## D. Server (out of scope)</a>
 
    0. Archival of video and photos (media assets)
    1. Retrieval of individual media assets
