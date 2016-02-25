@@ -4,8 +4,8 @@
 
 ## Physical (Hardware) Components from DJI:
 * DJI's Phantom 3 Pro flying platform (for practice before M100 is available)
-
 * DJI's Matrice 100 (M100) flying platform
+
 * Antenna sticking up from unit keeps the copter from hitting the ceiling.
 * DJI’s Manifold (portable computation platform) the "High performance computing designed for the DJI Onboard SDK to bring true intelligence to flying platforms."
 * DJI’s ZenMuse X3 (4K gimbal mounted camera)
@@ -52,4 +52,5 @@
    * DJI emulator
 
 <img alt="drone communications map" src="https://cloud.githubusercontent.com/assets/300046/12911501/cc32f0ba-cec7-11e5-9a97-f1f945ffe1ce.png">
+
 Photo credit: https://developer.dji.com/showcase/ugcs/
