@@ -20,7 +20,7 @@ E. Server (may be out of scope)</a>
 
 
 <a name="PhantomCapabilities">
-## A. Mobile phone controlling Phantom 3 drone</a>
+## A. Control Phantom 3 drone</a>
 The progress of computer control is similar to how a human gradually learns to fly safely -- gradually taking more risk of damaging equipment as skills increase.
 
    0. Display video from drone on mobile app screen.
@@ -39,6 +39,12 @@ The progress of computer control is similar to how a human gradually learns to f
 
 <a name="M100Capabilities">
 ## B. Controll M100 drone</a>
+
+   0. Insert in accessory bay.
+   0. Occipital sensor detects ceiling height.
+   0. TensorFlow loaded, receives input.
+   1. TensorFlow communicate with drone.
+   2. Map Minecraft
 
 <a name="ImageRecognition">
 ## C. Image recognition</a>
