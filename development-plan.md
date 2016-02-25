@@ -3,20 +3,23 @@
 The objective is to create several useful intermediate products over time, each with increasing capability
 (rather than individual components that can't do much unless assembled together at the end):
 
-<a href="#MobileCapabilities">
-A. Mobile phone controlling Phantom 3 drone</a>
+<a href="#PhantomCapabilities">
+A. Control Phantom 3 drone</a>
+
+<a href="#M100Capabilities">
+B. Control M100 drone</a>
 
 <a href="#ImageRecognition">
-B. Image recognition and route planning/prioritization</a>
+C. Image recognition</a>
 
 <a href="#RoutePlanning">
-C. Route planning/prioritization</a>
+D. Route planning/prioritization</a>
 
 <a href="#ServerCapabilities">
-D. Server (may be out of scope)</a>
+E. Server (may be out of scope)</a>
 
 
-<a name="MobileCapabilities">
+<a name="PhantomCapabilities">
 ## A. Mobile phone controlling Phantom 3 drone</a>
 The progress of computer control is similar to how a human gradually learns to fly safely -- gradually taking more risk of damaging equipment as skills increase.
 
@@ -34,15 +37,18 @@ The progress of computer control is similar to how a human gradually learns to f
    0. RTH (Return to home) button after short missions.
    0. Really store coordinates with keywords.
 
+<a name="M100Capabilities">
+## B. Controll M100 drone</a>
+
 <a name="ImageRecognition">
-## B. Image recognition and route planning/prioritization</a>
+## C. Image recognition</a>
 
    0. AprilTag software on a Mac identity the position of AprilTag and dervive a value from image.
    0. Drone derive a value from AprilTag (http://people.csail.mit.edu/kaess/apriltags/)
    0. Identify <strong>GPS coordinates</strong> from a picture containing the recognized AprilTag
 
 <a name="RoutePlanning">
-## C. Route planning/prioritization</a>
+## D. Route planning/prioritization</a>
 
    0. Coordinates to on-board computer for short mission.
    0. Initial take-off.
@@ -55,7 +61,7 @@ The progress of computer control is similar to how a human gradually learns to f
    0. Landing on a moving vehicle
 
 <a name="ServerCapabilities">
-## D. Server (out of scope)</a>
+## E. Server (out of scope)</a>
 
    0. Archival of video and photos (media assets)
    1. Retrieval of individual media assets
