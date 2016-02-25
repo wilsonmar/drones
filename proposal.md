@@ -18,12 +18,18 @@
 
 
 ## Additional Physical (Hardware) Components:
-* Ford SYNC prototyping box
-
 * Bracket and straps to hold iPhone etc in accesory bay
 * iPhone
 * Lightning cable to iPhone
 * Occipital sensor connected to iPhone
+
+* Ford SYNC prototyping box
+
+   <a target="_blank" href="http://livestream.com/concur/events/4784185"><img width="470" alt="ford hackathon winners 2015"     src="https://cloud.githubusercontent.com/assets/300046/13028289/4b41592e-d228-11e5-9642-17b6beebe033.png"></a>
+
+   NOTE: Team member Richard Puckett's team won the Ford SYNC Challenge 2015.
+   Picture is [3:30] into the video on ConcurLabs.com.
+
 
 ### Supplies and Tooling
 * Box to mail copter via UPS/FedEx
