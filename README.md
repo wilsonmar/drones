@@ -25,3 +25,6 @@ NOT included in the proposal to DJI are the following notes of additional ideas 
    * [Server Notes](https://github.com/wilsonmar/drones/blob/master/server.md)
    * [SAP-integration](https://github.com/wilsonmar/drones/blob/master/sap-integration.md)
    * [Resources](https://github.com/wilsonmar/drones/blob/master/resources.md)
+
+
+[![Join the chat at https://gitter.im/wilsonmar/drones](https://badges.gitter.im/wilsonmar/drones.svg)](https://gitter.im/wilsonmar/drones?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
