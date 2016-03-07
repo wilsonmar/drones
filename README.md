@@ -1,5 +1,7 @@
 <img width="687" alt="reaching for the sky in field" src="https://cloud.githubusercontent.com/assets/300046/13034360/7f5808b6-d2f0-11e5-9b5f-30e0d96b2391.png">
 
+[![Join the chat at https://gitter.im/wilsonmar/drones](https://badges.gitter.im/wilsonmar/drones.svg)](https://gitter.im/wilsonmar/drones?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <a href="https://github.com/wilsonmar/drones/blob/master/README.md">This repo/document</a> contains our proposal submission for the <a target="_blank" href="https://developer.dji.com/challenge2016/">DJI Challenge 2016</a>.
 
 * [Team](https://github.com/wilsonmar/drones/blob/master/team.md)
@@ -26,5 +28,3 @@ NOT included in the proposal to DJI are the following notes of additional ideas 
    * [SAP-integration](https://github.com/wilsonmar/drones/blob/master/sap-integration.md)
    * [Resources](https://github.com/wilsonmar/drones/blob/master/resources.md)
 
-
-[![Join the chat at https://gitter.im/wilsonmar/drones](https://badges.gitter.im/wilsonmar/drones.svg)](https://gitter.im/wilsonmar/drones?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
